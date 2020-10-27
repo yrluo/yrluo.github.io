@@ -1,5 +1,5 @@
 ---
-title: "Introductory Applied Machine Learning"
+title: "Introductory Applied Machine Learning - 2020"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2020-spring-teaching-1
