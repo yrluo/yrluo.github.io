@@ -21,13 +21,15 @@ Hi there! I am currently a second-year PhD student at [AIAI](http://web.inf.ed.a
 Current projects
 ======
 
-<img src="/images/Pic_1.png" align="left" width="225" height="143" />
+<img src="/images/Pic_1.png" align="left" width="150" height="95">
 
-Financial sentiment decomposing and missing sentiment imputation using matrix analysis techniques. Working with [Dr Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) from [the Alan Turing Institute](https://www.turing.ac.uk/).
+Financial sentiment decomposing and missing sentiment imputation using matrix analysis techniques. 
+
+Working with [Dr Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) from [the Alan Turing Institute](https://www.turing.ac.uk/).
 
 ---
 
-<img src="/images/Pic_2.png" align="left" width="225" height="143" />
+<img src="/images/Pic_2.png" align="left" width="150" height="95">
 
 Financial sentiment propagation through the company network using graph representation learning techniques.
 
