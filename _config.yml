@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Chang Luo"
 title_separator          : "-"
 name                     : &name "Chang Luo"
-description              : &description "PhD student @the University of Edinburgh."
+description              : &description "PhD student @ the University of Edinburgh."
 url                      : https://yrluo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yrluo/yrluo.github.io"
@@ -82,7 +82,7 @@ yandex_site_verification :
 author:
   name             : "Chang Luo"
   avatar           : "profile_2.png"
-  bio              : "PhD student in the University of Edinburgh."
+  bio              : "PhD student @ the University of Edinburgh."
   location         : "Edinburgh, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
