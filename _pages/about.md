@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chang Luo's Academic Page"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year PhD student at [AIAI](http://web.inf.ed.ac.uk/aiai), [the University of Edinburgh](https://www.ed.ac.uk/). My research area mainly focuses on the applications of Graph Representation Learning (GRL) on Finance. 
+Hi there! I am currently a second-year PhD student at [AIAI](http://web.inf.ed.ac.uk/aiai), [the University of Edinburgh](https://www.ed.ac.uk/). My research area mainly focuses on the applications of Graph Representation Learning (GRL) on Finance. 
 
 **Some key words related to me**:
 * Statistic learning applications
@@ -18,7 +18,7 @@ I am currently a second-year PhD student at [AIAI](http://web.inf.ed.ac.uk/aiai)
 
 Current projects
 ======
-Pic 1 Financial sentiment decomposing and missing sentiment imputation using matrix analysis techniques.
+Pic 1 Financial sentiment decomposing and missing sentiment imputation using matrix analysis techniques. Working with [Dr Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) from [the Alan Turing Institute](https://www.turing.ac.uk/).
 
 Pic 2 Financial sentiment propagation through the company network using graph representation learning techniques.
 
