@@ -17,19 +17,3 @@ My current research area mainly focuses on the applications of Graph Representat
 * Financial modeling
 * Financial sentiment analysis (Behavioral finance)
 
-
-Current projects
-======
-
-<img src="/images/Pic_1.png" align="left" width="180" height="114">
-
-Financial sentiment decomposing and missing sentiment imputation using matrix analysis techniques. Working with [Dr Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) from [the Alan Turing Institute](https://www.turing.ac.uk/).
-
-<br clear="left"/>
-
----
-
-<img src="/images/Pic_2.png" align="left" width="180" height="114">
-
-Financial sentiment propagation through the company network using graph representation learning techniques.
-
