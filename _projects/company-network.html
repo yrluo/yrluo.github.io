@@ -28,10 +28,20 @@
           chart.title("Snapshot of The Company Network on Dec-31-2016");
           
           // set the fill of nodes
-          nodes.normal().fill("#ffa000");
-          nodes.hovered().fill("white");
-          nodes.selected().fill("#ffa000");
+          // configure nodes
+          chart.nodes().labels().enabled(true);
+          // chart.nodes().labels().fontSize(12);
 
+          chart.nodes().normal().fill("white");
+          chart.nodes().normal().stroke("1 black");
+          chart.nodes().shape('circle');
+
+          chart.nodes().hovered().fill("white");
+          chart.nodes().hovered().stroke("2 black");
+          chart.nodes().hovered().shape('circle');
+
+          chart.layout().type('force');
+          
           // draw the chart
           chart.container("container").draw();
 
