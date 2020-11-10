@@ -200,7 +200,15 @@
         },
         {
             "from": "BMY.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "BMY.N",
             "to": "KEY.N"
+        },
+        {
+            "from": "BMY.N",
+            "to": "MUR.N"
         },
         {
             "from": "BMY.N",
@@ -208,7 +216,15 @@
         },
         {
             "from": "BMY.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "BMY.N",
             "to": "BA.N"
+        },
+        {
+            "from": "BMY.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "BMY.N",
@@ -216,11 +232,23 @@
         },
         {
             "from": "BMY.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "BMY.N",
             "to": "HST.N"
         },
         {
             "from": "BMY.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "BMY.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "BMY.N",
+            "to": "T.N"
         },
         {
             "from": "BMY.N",
@@ -237,6 +265,10 @@
         {
             "from": "BMY.N",
             "to": "MMC.N"
+        },
+        {
+            "from": "BMY.N",
+            "to": "ROST.O"
         },
         {
             "from": "BMY.N",
@@ -260,7 +292,27 @@
         },
         {
             "from": "BMY.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "BMY.N",
+            "to": "DGX.N"
+        },
+        {
+            "from": "BMY.N",
+            "to": "MRO.N"
+        },
+        {
+            "from": "BMY.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "BMY.N",
             "to": "GE.N"
+        },
+        {
+            "from": "BMY.N",
+            "to": "FLR.N"
         },
         {
             "from": "BMY.N",
@@ -276,11 +328,31 @@
         },
         {
             "from": "BMY.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "BMY.N",
             "to": "MGM.N"
         },
         {
             "from": "BMY.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "BMY.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "BMY.N",
             "to": "NVDA.O"
+        },
+        {
+            "from": "BMY.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "BMY.N",
+            "to": "FE.N"
         },
         {
             "from": "BMY.N",
@@ -292,7 +364,27 @@
         },
         {
             "from": "BMY.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "BMY.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "BMY.N",
             "to": "FFIV.O"
+        },
+        {
+            "from": "BMY.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "BMY.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "BMY.N",
+            "to": "ABT.N"
         },
         {
             "from": "BMY.N",
@@ -312,6 +404,10 @@
         },
         {
             "from": "BMY.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "BMY.N",
             "to": "CCL.N"
         },
         {
@@ -319,8 +415,16 @@
             "to": "LUV.N"
         },
         {
+            "from": "BMY.N",
+            "to": "EXC.N"
+        },
+        {
             "from": "RHI.N",
             "to": "BMY.N"
+        },
+        {
+            "from": "RHI.N",
+            "to": "AMZN.O"
         },
         {
             "from": "RHI.N",
@@ -336,7 +440,15 @@
         },
         {
             "from": "RHI.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "RHI.N",
             "to": "BA.N"
+        },
+        {
+            "from": "RHI.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "RHI.N",
@@ -352,7 +464,15 @@
         },
         {
             "from": "RHI.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "RHI.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "RHI.N",
+            "to": "T.N"
         },
         {
             "from": "RHI.N",
@@ -392,6 +512,14 @@
         },
         {
             "from": "RHI.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "RHI.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "RHI.N",
             "to": "DGX.N"
         },
         {
@@ -400,7 +528,15 @@
         },
         {
             "from": "RHI.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "RHI.N",
             "to": "GE.N"
+        },
+        {
+            "from": "RHI.N",
+            "to": "FLR.N"
         },
         {
             "from": "RHI.N",
@@ -436,6 +572,14 @@
         },
         {
             "from": "RHI.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "RHI.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "RHI.N",
             "to": "DRI.N"
         },
         {
@@ -444,11 +588,27 @@
         },
         {
             "from": "RHI.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "RHI.N",
             "to": "EXPD.O"
         },
         {
             "from": "RHI.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "RHI.N",
             "to": "AMT.N"
+        },
+        {
+            "from": "RHI.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "RHI.N",
+            "to": "ABT.N"
         },
         {
             "from": "RHI.N",
@@ -479,12 +639,192 @@
             "to": "LUV.N"
         },
         {
+            "from": "RHI.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "BMY.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "RHI.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "KEY.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "CAG.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "BA.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "SYY.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "OMC.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "HST.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "ADM.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "LNC.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "STI.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "PGR.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "WFC.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "MMC.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "FISV.O"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "FAST.O"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "RF.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "CMA.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "CELG.O"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "MRO.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "GE.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "HON.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "CAH.N"
+        },
+        {
             "from": "AMZN.O",
             "to": "EL.N"
         },
         {
             "from": "AMZN.O",
+            "to": "MCD.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "BAX.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "MGM.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "HAL.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "DRI.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "BEN.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "OXY.N"
+        },
+        {
+            "from": "AMZN.O",
             "to": "FFIV.O"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "AMT.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "KMB.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "ABT.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "VLO.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "COP.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "LEG.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "APD.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "NBR.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "CCL.N"
+        },
+        {
+            "from": "AMZN.O",
+            "to": "LUV.N"
         },
         {
             "from": "KEY.N",
@@ -493,6 +833,14 @@
         {
             "from": "KEY.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "KEY.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "KEY.N",
+            "to": "MUR.N"
         },
         {
             "from": "KEY.N",
@@ -520,7 +868,19 @@
         },
         {
             "from": "KEY.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "KEY.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "KEY.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "KEY.N",
+            "to": "T.N"
         },
         {
             "from": "KEY.N",
@@ -533,6 +893,14 @@
         {
             "from": "KEY.N",
             "to": "WFC.N"
+        },
+        {
+            "from": "KEY.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "KEY.N",
+            "to": "ROST.O"
         },
         {
             "from": "KEY.N",
@@ -556,6 +924,10 @@
         },
         {
             "from": "KEY.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "KEY.N",
             "to": "DGX.N"
         },
         {
@@ -564,7 +936,15 @@
         },
         {
             "from": "KEY.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "KEY.N",
             "to": "GE.N"
+        },
+        {
+            "from": "KEY.N",
+            "to": "FLR.N"
         },
         {
             "from": "KEY.N",
@@ -588,11 +968,23 @@
         },
         {
             "from": "KEY.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "KEY.N",
             "to": "HAL.N"
         },
         {
             "from": "KEY.N",
             "to": "NVDA.O"
+        },
+        {
+            "from": "KEY.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "KEY.N",
+            "to": "FE.N"
         },
         {
             "from": "KEY.N",
@@ -613,6 +1005,14 @@
         {
             "from": "KEY.N",
             "to": "AMT.N"
+        },
+        {
+            "from": "KEY.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "KEY.N",
+            "to": "ABT.N"
         },
         {
             "from": "KEY.N",
@@ -643,8 +1043,40 @@
             "to": "LUV.N"
         },
         {
+            "from": "KEY.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "MUR.N",
+            "to": "BMY.N"
+        },
+        {
             "from": "MUR.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "MUR.N",
+            "to": "KEY.N"
+        },
+        {
+            "from": "MUR.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "MUR.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "MUR.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "MUR.N",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "MUR.N",
+            "to": "SYY.N"
         },
         {
             "from": "MUR.N",
@@ -660,7 +1092,15 @@
         },
         {
             "from": "MUR.N",
+            "to": "T.N"
+        },
+        {
+            "from": "MUR.N",
             "to": "STI.N"
+        },
+        {
+            "from": "MUR.N",
+            "to": "PGR.N"
         },
         {
             "from": "MUR.N",
@@ -692,6 +1132,14 @@
         },
         {
             "from": "MUR.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "MUR.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "MUR.N",
             "to": "DGX.N"
         },
         {
@@ -700,7 +1148,23 @@
         },
         {
             "from": "MUR.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "MUR.N",
             "to": "GE.N"
+        },
+        {
+            "from": "MUR.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "MUR.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "MUR.N",
+            "to": "EL.N"
         },
         {
             "from": "MUR.N",
@@ -708,11 +1172,35 @@
         },
         {
             "from": "MUR.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "MUR.N",
             "to": "MGM.N"
         },
         {
             "from": "MUR.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "MUR.N",
             "to": "HAL.N"
+        },
+        {
+            "from": "MUR.N",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "MUR.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "MUR.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "MUR.N",
+            "to": "DRI.N"
         },
         {
             "from": "MUR.N",
@@ -724,7 +1212,27 @@
         },
         {
             "from": "MUR.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "MUR.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "MUR.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "MUR.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "MUR.N",
             "to": "COP.N"
+        },
+        {
+            "from": "MUR.N",
+            "to": "LEG.N"
         },
         {
             "from": "MUR.N",
@@ -736,7 +1244,15 @@
         },
         {
             "from": "MUR.N",
+            "to": "CCL.N"
+        },
+        {
+            "from": "MUR.N",
             "to": "LUV.N"
+        },
+        {
+            "from": "MUR.N",
+            "to": "EXC.N"
         },
         {
             "from": "CAG.N",
@@ -748,11 +1264,35 @@
         },
         {
             "from": "CAG.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "CAG.N",
             "to": "KEY.N"
         },
         {
             "from": "CAG.N",
+            "to": "MUR.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "CAG.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "CAG.N",
             "to": "SYY.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "HST.N"
         },
         {
             "from": "CAG.N",
@@ -764,11 +1304,23 @@
         },
         {
             "from": "CAG.N",
+            "to": "PGR.N"
+        },
+        {
+            "from": "CAG.N",
             "to": "WFC.N"
         },
         {
             "from": "CAG.N",
             "to": "MMC.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "ROST.O"
+        },
+        {
+            "from": "CAG.N",
+            "to": "FISV.O"
         },
         {
             "from": "CAG.N",
@@ -788,7 +1340,23 @@
         },
         {
             "from": "CAG.N",
+            "to": "DGX.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "MRO.N"
+        },
+        {
+            "from": "CAG.N",
             "to": "GE.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "HON.N"
         },
         {
             "from": "CAG.N",
@@ -796,7 +1364,39 @@
         },
         {
             "from": "CAG.N",
+            "to": "MCD.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "CAG.N",
             "to": "MGM.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "CAG.N",
+            "to": "CMS.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "CAG.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "CAG.N",
+            "to": "FE.N"
         },
         {
             "from": "CAG.N",
@@ -808,11 +1408,51 @@
         },
         {
             "from": "CAG.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "CAG.N",
+            "to": "OXY.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "CAG.N",
             "to": "AMT.N"
         },
         {
             "from": "CAG.N",
+            "to": "EIX.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "COP.N"
+        },
+        {
+            "from": "CAG.N",
             "to": "LEG.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "APD.N"
+        },
+        {
+            "from": "CAG.N",
+            "to": "NBR.N"
         },
         {
             "from": "CAG.N",
@@ -824,7 +1464,47 @@
         },
         {
             "from": "KLAC.O",
+            "to": "BMY.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "RHI.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "KLAC.O",
             "to": "KEY.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "MUR.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "CAG.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "BA.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "SYY.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "OMC.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "HST.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "MO.N"
         },
         {
             "from": "KLAC.O",
@@ -832,7 +1512,31 @@
         },
         {
             "from": "KLAC.O",
+            "to": "STI.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "PGR.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "WFC.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "MMC.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "ROST.O"
+        },
+        {
+            "from": "KLAC.O",
             "to": "FISV.O"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "FAST.O"
         },
         {
             "from": "KLAC.O",
@@ -840,7 +1544,19 @@
         },
         {
             "from": "KLAC.O",
+            "to": "CMA.N"
+        },
+        {
+            "from": "KLAC.O",
             "to": "CELG.O"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "DGX.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "MRO.N"
         },
         {
             "from": "KLAC.O",
@@ -848,7 +1564,23 @@
         },
         {
             "from": "KLAC.O",
+            "to": "FLR.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "HON.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "EL.N"
+        },
+        {
+            "from": "KLAC.O",
             "to": "MCD.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "BAX.N"
         },
         {
             "from": "KLAC.O",
@@ -856,7 +1588,19 @@
         },
         {
             "from": "KLAC.O",
+            "to": "COST.O"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "HAL.N"
+        },
+        {
+            "from": "KLAC.O",
             "to": "NVDA.O"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "MSFT.O"
         },
         {
             "from": "KLAC.O",
@@ -864,7 +1608,27 @@
         },
         {
             "from": "KLAC.O",
+            "to": "BEN.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "KLAC.O",
             "to": "FFIV.O"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "AMT.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "KMB.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "ABT.N"
         },
         {
             "from": "KLAC.O",
@@ -872,7 +1636,27 @@
         },
         {
             "from": "KLAC.O",
+            "to": "COP.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "LEG.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "APD.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "NBR.N"
+        },
+        {
+            "from": "KLAC.O",
             "to": "CCL.N"
+        },
+        {
+            "from": "KLAC.O",
+            "to": "LUV.N"
         },
         {
             "from": "BA.N",
@@ -884,7 +1668,23 @@
         },
         {
             "from": "BA.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "BA.N",
             "to": "KEY.N"
+        },
+        {
+            "from": "BA.N",
+            "to": "MUR.N"
+        },
+        {
+            "from": "BA.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "BA.N",
+            "to": "KLAC.O"
         },
         {
             "from": "BA.N",
@@ -892,11 +1692,27 @@
         },
         {
             "from": "BA.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "BA.N",
             "to": "HST.N"
         },
         {
             "from": "BA.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "BA.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "BA.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "BA.N",
+            "to": "T.N"
         },
         {
             "from": "BA.N",
@@ -912,6 +1728,14 @@
         },
         {
             "from": "BA.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "BA.N",
+            "to": "ROST.O"
+        },
+        {
+            "from": "BA.N",
             "to": "FISV.O"
         },
         {
@@ -928,11 +1752,31 @@
         },
         {
             "from": "BA.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "BA.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "BA.N",
             "to": "DGX.N"
         },
         {
             "from": "BA.N",
+            "to": "MRO.N"
+        },
+        {
+            "from": "BA.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "BA.N",
             "to": "GE.N"
+        },
+        {
+            "from": "BA.N",
+            "to": "FLR.N"
         },
         {
             "from": "BA.N",
@@ -953,6 +1797,10 @@
         {
             "from": "BA.N",
             "to": "MGM.N"
+        },
+        {
+            "from": "BA.N",
+            "to": "COST.O"
         },
         {
             "from": "BA.N",
@@ -968,6 +1816,10 @@
         },
         {
             "from": "BA.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "BA.N",
             "to": "DRI.N"
         },
         {
@@ -976,11 +1828,27 @@
         },
         {
             "from": "BA.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "BA.N",
             "to": "EXPD.O"
         },
         {
             "from": "BA.N",
             "to": "FFIV.O"
+        },
+        {
+            "from": "BA.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "BA.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "BA.N",
+            "to": "ABT.N"
         },
         {
             "from": "BA.N",
@@ -1000,11 +1868,167 @@
         },
         {
             "from": "BA.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "BA.N",
+            "to": "PPL.N"
+        },
+        {
+            "from": "BA.N",
             "to": "CCL.N"
         },
         {
             "from": "BA.N",
             "to": "LUV.N"
+        },
+        {
+            "from": "BA.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "BMY.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "RHI.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "MUR.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "SYY.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "HST.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "T.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "STI.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "PGR.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "WFC.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "MMC.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "ROST.O"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "FISV.O"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "FAST.O"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "CMA.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "DGX.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "MRO.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "CRM.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "GE.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "HON.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "CAH.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "MCD.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "MGM.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "COST.O"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "HAL.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "FE.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "BEN.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "JBL.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "COP.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "LEG.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "APD.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "NBR.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "LUV.N"
+        },
+        {
+            "from": "NDAQ.O",
+            "to": "EXC.N"
         },
         {
             "from": "SYY.N",
@@ -1016,7 +2040,15 @@
         },
         {
             "from": "SYY.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "SYY.N",
             "to": "KEY.N"
+        },
+        {
+            "from": "SYY.N",
+            "to": "MUR.N"
         },
         {
             "from": "SYY.N",
@@ -1024,7 +2056,15 @@
         },
         {
             "from": "SYY.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "SYY.N",
             "to": "BA.N"
+        },
+        {
+            "from": "SYY.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "SYY.N",
@@ -1036,7 +2076,19 @@
         },
         {
             "from": "SYY.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "SYY.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "SYY.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "SYY.N",
+            "to": "T.N"
         },
         {
             "from": "SYY.N",
@@ -1053,6 +2105,10 @@
         {
             "from": "SYY.N",
             "to": "MMC.N"
+        },
+        {
+            "from": "SYY.N",
+            "to": "ROST.O"
         },
         {
             "from": "SYY.N",
@@ -1076,6 +2132,10 @@
         },
         {
             "from": "SYY.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "SYY.N",
             "to": "DGX.N"
         },
         {
@@ -1084,7 +2144,15 @@
         },
         {
             "from": "SYY.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "SYY.N",
             "to": "GE.N"
+        },
+        {
+            "from": "SYY.N",
+            "to": "FLR.N"
         },
         {
             "from": "SYY.N",
@@ -1100,7 +2168,15 @@
         },
         {
             "from": "SYY.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "SYY.N",
             "to": "MGM.N"
+        },
+        {
+            "from": "SYY.N",
+            "to": "COST.O"
         },
         {
             "from": "SYY.N",
@@ -1112,6 +2188,14 @@
         },
         {
             "from": "SYY.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "SYY.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "SYY.N",
             "to": "DRI.N"
         },
         {
@@ -1120,7 +2204,27 @@
         },
         {
             "from": "SYY.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "SYY.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "SYY.N",
             "to": "FFIV.O"
+        },
+        {
+            "from": "SYY.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "SYY.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "SYY.N",
+            "to": "ABT.N"
         },
         {
             "from": "SYY.N",
@@ -1140,6 +2244,10 @@
         },
         {
             "from": "SYY.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "SYY.N",
             "to": "CCL.N"
         },
         {
@@ -1147,8 +2255,20 @@
             "to": "LUV.N"
         },
         {
+            "from": "SYY.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "OMC.N",
+            "to": "BMY.N"
+        },
+        {
             "from": "OMC.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "OMC.N",
+            "to": "AMZN.O"
         },
         {
             "from": "OMC.N",
@@ -1157,6 +2277,18 @@
         {
             "from": "OMC.N",
             "to": "MUR.N"
+        },
+        {
+            "from": "OMC.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "OMC.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "OMC.N",
+            "to": "BA.N"
         },
         {
             "from": "OMC.N",
@@ -1172,7 +2304,15 @@
         },
         {
             "from": "OMC.N",
+            "to": "T.N"
+        },
+        {
+            "from": "OMC.N",
             "to": "STI.N"
+        },
+        {
+            "from": "OMC.N",
+            "to": "PGR.N"
         },
         {
             "from": "OMC.N",
@@ -1204,6 +2344,14 @@
         },
         {
             "from": "OMC.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "OMC.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "OMC.N",
             "to": "DGX.N"
         },
         {
@@ -1212,7 +2360,23 @@
         },
         {
             "from": "OMC.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "OMC.N",
             "to": "GE.N"
+        },
+        {
+            "from": "OMC.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "OMC.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "OMC.N",
+            "to": "EL.N"
         },
         {
             "from": "OMC.N",
@@ -1220,11 +2384,31 @@
         },
         {
             "from": "OMC.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "OMC.N",
             "to": "MGM.N"
         },
         {
             "from": "OMC.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "OMC.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "OMC.N",
             "to": "NVDA.O"
+        },
+        {
+            "from": "OMC.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "OMC.N",
+            "to": "FE.N"
         },
         {
             "from": "OMC.N",
@@ -1236,6 +2420,30 @@
         },
         {
             "from": "OMC.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "OMC.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "OMC.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "OMC.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "OMC.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "OMC.N",
+            "to": "COP.N"
+        },
+        {
+            "from": "OMC.N",
             "to": "LEG.N"
         },
         {
@@ -1244,11 +2452,19 @@
         },
         {
             "from": "OMC.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "OMC.N",
             "to": "CCL.N"
         },
         {
             "from": "OMC.N",
             "to": "LUV.N"
+        },
+        {
+            "from": "OMC.N",
+            "to": "EXC.N"
         },
         {
             "from": "HST.N",
@@ -1260,6 +2476,10 @@
         },
         {
             "from": "HST.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "HST.N",
             "to": "KEY.N"
         },
         {
@@ -1268,7 +2488,19 @@
         },
         {
             "from": "HST.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "HST.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "HST.N",
             "to": "BA.N"
+        },
+        {
+            "from": "HST.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "HST.N",
@@ -1280,7 +2512,19 @@
         },
         {
             "from": "HST.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "HST.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "HST.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "HST.N",
+            "to": "T.N"
         },
         {
             "from": "HST.N",
@@ -1293,6 +2537,14 @@
         {
             "from": "HST.N",
             "to": "WFC.N"
+        },
+        {
+            "from": "HST.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "HST.N",
+            "to": "ROST.O"
         },
         {
             "from": "HST.N",
@@ -1312,6 +2564,14 @@
         },
         {
             "from": "HST.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "HST.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "HST.N",
             "to": "DGX.N"
         },
         {
@@ -1320,11 +2580,23 @@
         },
         {
             "from": "HST.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "HST.N",
             "to": "GE.N"
         },
         {
             "from": "HST.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "HST.N",
             "to": "HON.N"
+        },
+        {
+            "from": "HST.N",
+            "to": "EL.N"
         },
         {
             "from": "HST.N",
@@ -1352,6 +2624,14 @@
         },
         {
             "from": "HST.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "HST.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "HST.N",
             "to": "DRI.N"
         },
         {
@@ -1360,7 +2640,23 @@
         },
         {
             "from": "HST.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "HST.N",
             "to": "EXPD.O"
+        },
+        {
+            "from": "HST.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "HST.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "HST.N",
+            "to": "ABT.N"
         },
         {
             "from": "HST.N",
@@ -1391,12 +2687,308 @@
             "to": "LUV.N"
         },
         {
+            "from": "HST.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "ADM.N",
+            "to": "KEY.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "SYY.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "HST.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "RF.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "CMA.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "CAH.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "EL.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "MGM.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "ADM.N",
+            "to": "DRI.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "AFL.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "ADM.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "ADM.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "COP.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "APD.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "PPL.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "CCL.N"
+        },
+        {
+            "from": "ADM.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "BMY.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "RHI.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "KEY.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "MO.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "SYY.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "HST.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "LNC.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "T.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "STI.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "PGR.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "WFC.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "FISV.O"
+        },
+        {
+            "from": "MO.N",
+            "to": "FAST.O"
+        },
+        {
+            "from": "MO.N",
+            "to": "RF.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "CMA.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "MO.N",
+            "to": "DGX.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "MRO.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "GE.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "EL.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "MCD.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "MGM.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "MO.N",
+            "to": "CMS.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "NVDA.O"
+        },
+        {
             "from": "MO.N",
             "to": "MSFT.O"
         },
         {
             "from": "MO.N",
+            "to": "DRI.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "AFL.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "MO.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "MO.N",
+            "to": "EIX.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "COP.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "LEG.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "APD.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "MO.N",
             "to": "PPL.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "CCL.N"
+        },
+        {
+            "from": "MO.N",
+            "to": "LUV.N"
         },
         {
             "from": "MO.N",
@@ -1412,6 +3004,10 @@
         },
         {
             "from": "LNC.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "LNC.N",
             "to": "KEY.N"
         },
         {
@@ -1441,6 +3037,14 @@
         {
             "from": "LNC.N",
             "to": "HST.N"
+        },
+        {
+            "from": "LNC.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "LNC.N",
+            "to": "T.N"
         },
         {
             "from": "LNC.N",
@@ -1484,6 +3088,10 @@
         },
         {
             "from": "LNC.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "LNC.N",
             "to": "DGX.N"
         },
         {
@@ -1492,7 +3100,15 @@
         },
         {
             "from": "LNC.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "LNC.N",
             "to": "GE.N"
+        },
+        {
+            "from": "LNC.N",
+            "to": "FLR.N"
         },
         {
             "from": "LNC.N",
@@ -1516,11 +3132,23 @@
         },
         {
             "from": "LNC.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "LNC.N",
             "to": "HAL.N"
         },
         {
             "from": "LNC.N",
             "to": "NVDA.O"
+        },
+        {
+            "from": "LNC.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "LNC.N",
+            "to": "FE.N"
         },
         {
             "from": "LNC.N",
@@ -1541,6 +3169,14 @@
         {
             "from": "LNC.N",
             "to": "AMT.N"
+        },
+        {
+            "from": "LNC.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "LNC.N",
+            "to": "ABT.N"
         },
         {
             "from": "LNC.N",
@@ -1571,8 +3207,88 @@
             "to": "LUV.N"
         },
         {
+            "from": "LNC.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "T.N",
+            "to": "BMY.N"
+        },
+        {
+            "from": "T.N",
+            "to": "RHI.N"
+        },
+        {
+            "from": "T.N",
+            "to": "KEY.N"
+        },
+        {
+            "from": "T.N",
+            "to": "MUR.N"
+        },
+        {
+            "from": "T.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "T.N",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "T.N",
+            "to": "SYY.N"
+        },
+        {
+            "from": "T.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "T.N",
+            "to": "HST.N"
+        },
+        {
+            "from": "T.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "T.N",
+            "to": "LNC.N"
+        },
+        {
+            "from": "T.N",
+            "to": "STI.N"
+        },
+        {
             "from": "T.N",
             "to": "PGR.N"
+        },
+        {
+            "from": "T.N",
+            "to": "WFC.N"
+        },
+        {
+            "from": "T.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "T.N",
+            "to": "ROST.O"
+        },
+        {
+            "from": "T.N",
+            "to": "FISV.O"
+        },
+        {
+            "from": "T.N",
+            "to": "FAST.O"
+        },
+        {
+            "from": "T.N",
+            "to": "RF.N"
+        },
+        {
+            "from": "T.N",
+            "to": "CMA.N"
         },
         {
             "from": "T.N",
@@ -1584,7 +3300,107 @@
         },
         {
             "from": "T.N",
+            "to": "MRO.N"
+        },
+        {
+            "from": "T.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "T.N",
+            "to": "GE.N"
+        },
+        {
+            "from": "T.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "T.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "T.N",
+            "to": "MCD.N"
+        },
+        {
+            "from": "T.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "T.N",
+            "to": "MGM.N"
+        },
+        {
+            "from": "T.N",
             "to": "COST.O"
+        },
+        {
+            "from": "T.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "T.N",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "T.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "T.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "T.N",
+            "to": "DRI.N"
+        },
+        {
+            "from": "T.N",
+            "to": "BEN.N"
+        },
+        {
+            "from": "T.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "T.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "T.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "T.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "T.N",
+            "to": "COP.N"
+        },
+        {
+            "from": "T.N",
+            "to": "LEG.N"
+        },
+        {
+            "from": "T.N",
+            "to": "APD.N"
+        },
+        {
+            "from": "T.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "T.N",
+            "to": "CCL.N"
+        },
+        {
+            "from": "T.N",
+            "to": "LUV.N"
+        },
+        {
+            "from": "T.N",
+            "to": "EXC.N"
         },
         {
             "from": "STI.N",
@@ -1593,6 +3409,10 @@
         {
             "from": "STI.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "STI.N",
+            "to": "AMZN.O"
         },
         {
             "from": "STI.N",
@@ -1608,7 +3428,15 @@
         },
         {
             "from": "STI.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "STI.N",
             "to": "BA.N"
+        },
+        {
+            "from": "STI.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "STI.N",
@@ -1624,7 +3452,15 @@
         },
         {
             "from": "STI.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "STI.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "STI.N",
+            "to": "T.N"
         },
         {
             "from": "STI.N",
@@ -1664,6 +3500,10 @@
         },
         {
             "from": "STI.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "STI.N",
             "to": "DGX.N"
         },
         {
@@ -1672,7 +3512,15 @@
         },
         {
             "from": "STI.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "STI.N",
             "to": "GE.N"
+        },
+        {
+            "from": "STI.N",
+            "to": "FLR.N"
         },
         {
             "from": "STI.N",
@@ -1708,11 +3556,23 @@
         },
         {
             "from": "STI.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "STI.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "STI.N",
             "to": "DRI.N"
         },
         {
             "from": "STI.N",
             "to": "BEN.N"
+        },
+        {
+            "from": "STI.N",
+            "to": "JBL.N"
         },
         {
             "from": "STI.N",
@@ -1725,6 +3585,14 @@
         {
             "from": "STI.N",
             "to": "AMT.N"
+        },
+        {
+            "from": "STI.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "STI.N",
+            "to": "ABT.N"
         },
         {
             "from": "STI.N",
@@ -1755,6 +3623,10 @@
             "to": "LUV.N"
         },
         {
+            "from": "STI.N",
+            "to": "EXC.N"
+        },
+        {
             "from": "PGR.N",
             "to": "BMY.N"
         },
@@ -1764,7 +3636,23 @@
         },
         {
             "from": "PGR.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "PGR.N",
             "to": "KEY.N"
+        },
+        {
+            "from": "PGR.N",
+            "to": "MUR.N"
+        },
+        {
+            "from": "PGR.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "PGR.N",
+            "to": "KLAC.O"
         },
         {
             "from": "PGR.N",
@@ -1772,11 +3660,23 @@
         },
         {
             "from": "PGR.N",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "PGR.N",
             "to": "SYY.N"
         },
         {
             "from": "PGR.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "PGR.N",
             "to": "HST.N"
+        },
+        {
+            "from": "PGR.N",
+            "to": "MO.N"
         },
         {
             "from": "PGR.N",
@@ -1796,6 +3696,14 @@
         },
         {
             "from": "PGR.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "PGR.N",
+            "to": "ROST.O"
+        },
+        {
+            "from": "PGR.N",
             "to": "FISV.O"
         },
         {
@@ -1812,6 +3720,14 @@
         },
         {
             "from": "PGR.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "PGR.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "PGR.N",
             "to": "DGX.N"
         },
         {
@@ -1820,11 +3736,23 @@
         },
         {
             "from": "PGR.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "PGR.N",
             "to": "GE.N"
         },
         {
             "from": "PGR.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "PGR.N",
             "to": "HON.N"
+        },
+        {
+            "from": "PGR.N",
+            "to": "EL.N"
         },
         {
             "from": "PGR.N",
@@ -1833,6 +3761,10 @@
         {
             "from": "PGR.N",
             "to": "BAX.N"
+        },
+        {
+            "from": "PGR.N",
+            "to": "MGM.N"
         },
         {
             "from": "PGR.N",
@@ -1848,11 +3780,39 @@
         },
         {
             "from": "PGR.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "PGR.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "PGR.N",
             "to": "DRI.N"
         },
         {
             "from": "PGR.N",
             "to": "BEN.N"
+        },
+        {
+            "from": "PGR.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "PGR.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "PGR.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "PGR.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "PGR.N",
+            "to": "ABT.N"
         },
         {
             "from": "PGR.N",
@@ -1876,7 +3836,19 @@
         },
         {
             "from": "PGR.N",
+            "to": "PPL.N"
+        },
+        {
+            "from": "PGR.N",
+            "to": "CCL.N"
+        },
+        {
+            "from": "PGR.N",
             "to": "LUV.N"
+        },
+        {
+            "from": "PGR.N",
+            "to": "EXC.N"
         },
         {
             "from": "WFC.N",
@@ -1885,6 +3857,10 @@
         {
             "from": "WFC.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "WFC.N",
+            "to": "AMZN.O"
         },
         {
             "from": "WFC.N",
@@ -1900,7 +3876,15 @@
         },
         {
             "from": "WFC.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "WFC.N",
             "to": "BA.N"
+        },
+        {
+            "from": "WFC.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "WFC.N",
@@ -1916,7 +3900,15 @@
         },
         {
             "from": "WFC.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "WFC.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "WFC.N",
+            "to": "T.N"
         },
         {
             "from": "WFC.N",
@@ -1929,6 +3921,10 @@
         {
             "from": "WFC.N",
             "to": "MMC.N"
+        },
+        {
+            "from": "WFC.N",
+            "to": "ROST.O"
         },
         {
             "from": "WFC.N",
@@ -1948,6 +3944,10 @@
         },
         {
             "from": "WFC.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "WFC.N",
             "to": "DGX.N"
         },
         {
@@ -1956,7 +3956,15 @@
         },
         {
             "from": "WFC.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "WFC.N",
             "to": "GE.N"
+        },
+        {
+            "from": "WFC.N",
+            "to": "FLR.N"
         },
         {
             "from": "WFC.N",
@@ -1980,6 +3988,10 @@
         },
         {
             "from": "WFC.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "WFC.N",
             "to": "HAL.N"
         },
         {
@@ -1988,11 +4000,23 @@
         },
         {
             "from": "WFC.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "WFC.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "WFC.N",
             "to": "DRI.N"
         },
         {
             "from": "WFC.N",
             "to": "BEN.N"
+        },
+        {
+            "from": "WFC.N",
+            "to": "JBL.N"
         },
         {
             "from": "WFC.N",
@@ -2005,6 +4029,14 @@
         {
             "from": "WFC.N",
             "to": "AMT.N"
+        },
+        {
+            "from": "WFC.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "WFC.N",
+            "to": "ABT.N"
         },
         {
             "from": "WFC.N",
@@ -2035,12 +4067,24 @@
             "to": "LUV.N"
         },
         {
+            "from": "WFC.N",
+            "to": "EXC.N"
+        },
+        {
             "from": "MMC.N",
             "to": "BMY.N"
         },
         {
             "from": "MMC.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "MMC.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "MMC.N",
+            "to": "KEY.N"
         },
         {
             "from": "MMC.N",
@@ -2052,6 +4096,18 @@
         },
         {
             "from": "MMC.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "MMC.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "MMC.N",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "MMC.N",
             "to": "SYY.N"
         },
         {
@@ -2060,11 +4116,23 @@
         },
         {
             "from": "MMC.N",
+            "to": "HST.N"
+        },
+        {
+            "from": "MMC.N",
             "to": "LNC.N"
         },
         {
             "from": "MMC.N",
+            "to": "T.N"
+        },
+        {
+            "from": "MMC.N",
             "to": "STI.N"
+        },
+        {
+            "from": "MMC.N",
+            "to": "PGR.N"
         },
         {
             "from": "MMC.N",
@@ -2088,7 +4156,19 @@
         },
         {
             "from": "MMC.N",
+            "to": "CMA.N"
+        },
+        {
+            "from": "MMC.N",
             "to": "CELG.O"
+        },
+        {
+            "from": "MMC.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "MMC.N",
+            "to": "DGX.N"
         },
         {
             "from": "MMC.N",
@@ -2096,7 +4176,23 @@
         },
         {
             "from": "MMC.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "MMC.N",
             "to": "GE.N"
+        },
+        {
+            "from": "MMC.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "MMC.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "MMC.N",
+            "to": "EL.N"
         },
         {
             "from": "MMC.N",
@@ -2104,7 +4200,31 @@
         },
         {
             "from": "MMC.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "MMC.N",
             "to": "MGM.N"
+        },
+        {
+            "from": "MMC.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "MMC.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "MMC.N",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "MMC.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "MMC.N",
+            "to": "FE.N"
         },
         {
             "from": "MMC.N",
@@ -2116,7 +4236,27 @@
         },
         {
             "from": "MMC.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "MMC.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "MMC.N",
             "to": "AMT.N"
+        },
+        {
+            "from": "MMC.N",
+            "to": "EIX.N"
+        },
+        {
+            "from": "MMC.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "MMC.N",
+            "to": "COP.N"
         },
         {
             "from": "MMC.N",
@@ -2128,6 +4268,10 @@
         },
         {
             "from": "MMC.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "MMC.N",
             "to": "CCL.N"
         },
         {
@@ -2136,7 +4280,15 @@
         },
         {
             "from": "ROST.O",
+            "to": "BMY.N"
+        },
+        {
+            "from": "ROST.O",
             "to": "RHI.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "KEY.N"
         },
         {
             "from": "ROST.O",
@@ -2144,7 +4296,31 @@
         },
         {
             "from": "ROST.O",
+            "to": "CAG.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "ROST.O",
+            "to": "BA.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "ROST.O",
+            "to": "SYY.N"
+        },
+        {
+            "from": "ROST.O",
             "to": "OMC.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "HST.N"
         },
         {
             "from": "ROST.O",
@@ -2152,7 +4328,19 @@
         },
         {
             "from": "ROST.O",
+            "to": "T.N"
+        },
+        {
+            "from": "ROST.O",
             "to": "STI.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "PGR.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "WFC.N"
         },
         {
             "from": "ROST.O",
@@ -2168,6 +4356,22 @@
         },
         {
             "from": "ROST.O",
+            "to": "RF.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "CMA.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "CELG.O"
+        },
+        {
+            "from": "ROST.O",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "ROST.O",
             "to": "DGX.N"
         },
         {
@@ -2176,7 +4380,23 @@
         },
         {
             "from": "ROST.O",
+            "to": "CRM.N"
+        },
+        {
+            "from": "ROST.O",
             "to": "GE.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "FLR.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "HON.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "EL.N"
         },
         {
             "from": "ROST.O",
@@ -2184,7 +4404,31 @@
         },
         {
             "from": "ROST.O",
+            "to": "BAX.N"
+        },
+        {
+            "from": "ROST.O",
             "to": "MGM.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "COST.O"
+        },
+        {
+            "from": "ROST.O",
+            "to": "HAL.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "ROST.O",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "ROST.O",
+            "to": "FE.N"
         },
         {
             "from": "ROST.O",
@@ -2196,6 +4440,30 @@
         },
         {
             "from": "ROST.O",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "ROST.O",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "ROST.O",
+            "to": "AMT.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "ABT.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "VLO.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "COP.N"
+        },
+        {
+            "from": "ROST.O",
             "to": "LEG.N"
         },
         {
@@ -2204,7 +4472,19 @@
         },
         {
             "from": "ROST.O",
+            "to": "NBR.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "CCL.N"
+        },
+        {
+            "from": "ROST.O",
             "to": "LUV.N"
+        },
+        {
+            "from": "ROST.O",
+            "to": "EXC.N"
         },
         {
             "from": "FISV.O",
@@ -2216,6 +4496,10 @@
         },
         {
             "from": "FISV.O",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "FISV.O",
             "to": "KEY.N"
         },
         {
@@ -2224,11 +4508,19 @@
         },
         {
             "from": "FISV.O",
+            "to": "CAG.N"
+        },
+        {
+            "from": "FISV.O",
             "to": "KLAC.O"
         },
         {
             "from": "FISV.O",
             "to": "BA.N"
+        },
+        {
+            "from": "FISV.O",
+            "to": "NDAQ.O"
         },
         {
             "from": "FISV.O",
@@ -2244,7 +4536,15 @@
         },
         {
             "from": "FISV.O",
+            "to": "MO.N"
+        },
+        {
+            "from": "FISV.O",
             "to": "LNC.N"
+        },
+        {
+            "from": "FISV.O",
+            "to": "T.N"
         },
         {
             "from": "FISV.O",
@@ -2280,6 +4580,14 @@
         },
         {
             "from": "FISV.O",
+            "to": "CELG.O"
+        },
+        {
+            "from": "FISV.O",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "FISV.O",
             "to": "DGX.N"
         },
         {
@@ -2288,7 +4596,15 @@
         },
         {
             "from": "FISV.O",
+            "to": "CRM.N"
+        },
+        {
+            "from": "FISV.O",
             "to": "GE.N"
+        },
+        {
+            "from": "FISV.O",
+            "to": "FLR.N"
         },
         {
             "from": "FISV.O",
@@ -2296,7 +4612,15 @@
         },
         {
             "from": "FISV.O",
+            "to": "EL.N"
+        },
+        {
+            "from": "FISV.O",
             "to": "MCD.N"
+        },
+        {
+            "from": "FISV.O",
+            "to": "BAX.N"
         },
         {
             "from": "FISV.O",
@@ -2316,11 +4640,39 @@
         },
         {
             "from": "FISV.O",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "FISV.O",
+            "to": "FE.N"
+        },
+        {
+            "from": "FISV.O",
             "to": "DRI.N"
         },
         {
             "from": "FISV.O",
             "to": "BEN.N"
+        },
+        {
+            "from": "FISV.O",
+            "to": "JBL.N"
+        },
+        {
+            "from": "FISV.O",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "FISV.O",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "FISV.O",
+            "to": "AMT.N"
+        },
+        {
+            "from": "FISV.O",
+            "to": "ABT.N"
         },
         {
             "from": "FISV.O",
@@ -2351,12 +4703,20 @@
             "to": "LUV.N"
         },
         {
+            "from": "FISV.O",
+            "to": "EXC.N"
+        },
+        {
             "from": "FAST.O",
             "to": "BMY.N"
         },
         {
             "from": "FAST.O",
             "to": "RHI.N"
+        },
+        {
+            "from": "FAST.O",
+            "to": "AMZN.O"
         },
         {
             "from": "FAST.O",
@@ -2372,7 +4732,15 @@
         },
         {
             "from": "FAST.O",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "FAST.O",
             "to": "BA.N"
+        },
+        {
+            "from": "FAST.O",
+            "to": "NDAQ.O"
         },
         {
             "from": "FAST.O",
@@ -2388,7 +4756,15 @@
         },
         {
             "from": "FAST.O",
+            "to": "MO.N"
+        },
+        {
+            "from": "FAST.O",
             "to": "LNC.N"
+        },
+        {
+            "from": "FAST.O",
+            "to": "T.N"
         },
         {
             "from": "FAST.O",
@@ -2428,6 +4804,10 @@
         },
         {
             "from": "FAST.O",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "FAST.O",
             "to": "DGX.N"
         },
         {
@@ -2436,7 +4816,15 @@
         },
         {
             "from": "FAST.O",
+            "to": "CRM.N"
+        },
+        {
+            "from": "FAST.O",
             "to": "GE.N"
+        },
+        {
+            "from": "FAST.O",
+            "to": "FLR.N"
         },
         {
             "from": "FAST.O",
@@ -2460,11 +4848,23 @@
         },
         {
             "from": "FAST.O",
+            "to": "COST.O"
+        },
+        {
+            "from": "FAST.O",
             "to": "HAL.N"
         },
         {
             "from": "FAST.O",
             "to": "NVDA.O"
+        },
+        {
+            "from": "FAST.O",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "FAST.O",
+            "to": "FE.N"
         },
         {
             "from": "FAST.O",
@@ -2485,6 +4885,10 @@
         {
             "from": "FAST.O",
             "to": "AMT.N"
+        },
+        {
+            "from": "FAST.O",
+            "to": "ABT.N"
         },
         {
             "from": "FAST.O",
@@ -2515,12 +4919,20 @@
             "to": "LUV.N"
         },
         {
+            "from": "FAST.O",
+            "to": "EXC.N"
+        },
+        {
             "from": "RF.N",
             "to": "BMY.N"
         },
         {
             "from": "RF.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "RF.N",
+            "to": "AMZN.O"
         },
         {
             "from": "RF.N",
@@ -2556,7 +4968,19 @@
         },
         {
             "from": "RF.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "RF.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "RF.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "RF.N",
+            "to": "T.N"
         },
         {
             "from": "RF.N",
@@ -2572,6 +4996,10 @@
         },
         {
             "from": "RF.N",
+            "to": "ROST.O"
+        },
+        {
+            "from": "RF.N",
             "to": "FISV.O"
         },
         {
@@ -2584,6 +5012,10 @@
         },
         {
             "from": "RF.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "RF.N",
             "to": "DGX.N"
         },
         {
@@ -2592,7 +5024,15 @@
         },
         {
             "from": "RF.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "RF.N",
             "to": "GE.N"
+        },
+        {
+            "from": "RF.N",
+            "to": "FLR.N"
         },
         {
             "from": "RF.N",
@@ -2616,6 +5056,10 @@
         },
         {
             "from": "RF.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "RF.N",
             "to": "HAL.N"
         },
         {
@@ -2624,11 +5068,23 @@
         },
         {
             "from": "RF.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "RF.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "RF.N",
             "to": "DRI.N"
         },
         {
             "from": "RF.N",
             "to": "BEN.N"
+        },
+        {
+            "from": "RF.N",
+            "to": "JBL.N"
         },
         {
             "from": "RF.N",
@@ -2641,6 +5097,14 @@
         {
             "from": "RF.N",
             "to": "AMT.N"
+        },
+        {
+            "from": "RF.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "RF.N",
+            "to": "ABT.N"
         },
         {
             "from": "RF.N",
@@ -2671,12 +5135,20 @@
             "to": "LUV.N"
         },
         {
+            "from": "RF.N",
+            "to": "EXC.N"
+        },
+        {
             "from": "CMA.N",
             "to": "BMY.N"
         },
         {
             "from": "CMA.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "CMA.N",
+            "to": "AMZN.O"
         },
         {
             "from": "CMA.N",
@@ -2692,7 +5164,15 @@
         },
         {
             "from": "CMA.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "CMA.N",
             "to": "BA.N"
+        },
+        {
+            "from": "CMA.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "CMA.N",
@@ -2708,7 +5188,19 @@
         },
         {
             "from": "CMA.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "CMA.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "CMA.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "CMA.N",
+            "to": "T.N"
         },
         {
             "from": "CMA.N",
@@ -2724,11 +5216,27 @@
         },
         {
             "from": "CMA.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "CMA.N",
+            "to": "ROST.O"
+        },
+        {
+            "from": "CMA.N",
             "to": "FISV.O"
         },
         {
             "from": "CMA.N",
             "to": "FAST.O"
+        },
+        {
+            "from": "CMA.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "CMA.N",
+            "to": "HOLX.O"
         },
         {
             "from": "CMA.N",
@@ -2740,7 +5248,15 @@
         },
         {
             "from": "CMA.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "CMA.N",
             "to": "GE.N"
+        },
+        {
+            "from": "CMA.N",
+            "to": "FLR.N"
         },
         {
             "from": "CMA.N",
@@ -2780,6 +5296,10 @@
         },
         {
             "from": "CMA.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "CMA.N",
             "to": "DRI.N"
         },
         {
@@ -2788,11 +5308,27 @@
         },
         {
             "from": "CMA.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "CMA.N",
             "to": "EXPD.O"
         },
         {
             "from": "CMA.N",
             "to": "FFIV.O"
+        },
+        {
+            "from": "CMA.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "CMA.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "CMA.N",
+            "to": "ABT.N"
         },
         {
             "from": "CMA.N",
@@ -2823,12 +5359,28 @@
             "to": "LUV.N"
         },
         {
+            "from": "CMA.N",
+            "to": "EXC.N"
+        },
+        {
             "from": "CELG.O",
             "to": "BMY.N"
         },
         {
             "from": "CELG.O",
+            "to": "RHI.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "CELG.O",
             "to": "KEY.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "MUR.N"
         },
         {
             "from": "CELG.O",
@@ -2840,7 +5392,19 @@
         },
         {
             "from": "CELG.O",
+            "to": "BA.N"
+        },
+        {
+            "from": "CELG.O",
             "to": "SYY.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "OMC.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "HST.N"
         },
         {
             "from": "CELG.O",
@@ -2852,11 +5416,23 @@
         },
         {
             "from": "CELG.O",
+            "to": "PGR.N"
+        },
+        {
+            "from": "CELG.O",
             "to": "WFC.N"
         },
         {
             "from": "CELG.O",
             "to": "MMC.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "ROST.O"
+        },
+        {
+            "from": "CELG.O",
+            "to": "FISV.O"
         },
         {
             "from": "CELG.O",
@@ -2868,7 +5444,27 @@
         },
         {
             "from": "CELG.O",
+            "to": "CMA.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "DGX.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "MRO.N"
+        },
+        {
+            "from": "CELG.O",
             "to": "GE.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "FLR.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "HON.N"
         },
         {
             "from": "CELG.O",
@@ -2876,7 +5472,35 @@
         },
         {
             "from": "CELG.O",
+            "to": "MCD.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "BAX.N"
+        },
+        {
+            "from": "CELG.O",
             "to": "MGM.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "COST.O"
+        },
+        {
+            "from": "CELG.O",
+            "to": "HAL.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "CELG.O",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "CELG.O",
+            "to": "FE.N"
         },
         {
             "from": "CELG.O",
@@ -2888,6 +5512,14 @@
         },
         {
             "from": "CELG.O",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "CELG.O",
+            "to": "OXY.N"
+        },
+        {
+            "from": "CELG.O",
             "to": "FFIV.O"
         },
         {
@@ -2896,11 +5528,87 @@
         },
         {
             "from": "CELG.O",
+            "to": "EIX.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "KMB.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "ABT.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "VLO.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "COP.N"
+        },
+        {
+            "from": "CELG.O",
             "to": "LEG.N"
         },
         {
             "from": "CELG.O",
+            "to": "APD.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "NBR.N"
+        },
+        {
+            "from": "CELG.O",
             "to": "CCL.N"
+        },
+        {
+            "from": "CELG.O",
+            "to": "LUV.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "BMY.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "RHI.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "KEY.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "MUR.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "BA.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "SYY.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "OMC.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "HST.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "MO.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "LNC.N"
         },
         {
             "from": "HOLX.O",
@@ -2908,7 +5616,151 @@
         },
         {
             "from": "HOLX.O",
+            "to": "STI.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "PGR.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "WFC.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "MMC.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "ROST.O"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "FISV.O"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "FAST.O"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "RF.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "CMA.N"
+        },
+        {
+            "from": "HOLX.O",
             "to": "DGX.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "MRO.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "CRM.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "GE.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "FLR.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "HON.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "MCD.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "BAX.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "MGM.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "COST.O"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "HAL.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "FE.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "DRI.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "BEN.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "JBL.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "AMT.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "VLO.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "COP.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "LEG.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "APD.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "NBR.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "CCL.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "LUV.N"
+        },
+        {
+            "from": "HOLX.O",
+            "to": "EXC.N"
+        },
+        {
+            "from": "DGX.N",
+            "to": "BMY.N"
         },
         {
             "from": "DGX.N",
@@ -2924,7 +5776,19 @@
         },
         {
             "from": "DGX.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "DGX.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "DGX.N",
             "to": "BA.N"
+        },
+        {
+            "from": "DGX.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "DGX.N",
@@ -2937,6 +5801,10 @@
         {
             "from": "DGX.N",
             "to": "HST.N"
+        },
+        {
+            "from": "DGX.N",
+            "to": "MO.N"
         },
         {
             "from": "DGX.N",
@@ -2960,6 +5828,10 @@
         },
         {
             "from": "DGX.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "DGX.N",
             "to": "ROST.O"
         },
         {
@@ -2980,6 +5852,10 @@
         },
         {
             "from": "DGX.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "DGX.N",
             "to": "HOLX.O"
         },
         {
@@ -2988,7 +5864,15 @@
         },
         {
             "from": "DGX.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "DGX.N",
             "to": "GE.N"
+        },
+        {
+            "from": "DGX.N",
+            "to": "FLR.N"
         },
         {
             "from": "DGX.N",
@@ -2996,7 +5880,15 @@
         },
         {
             "from": "DGX.N",
+            "to": "EL.N"
+        },
+        {
+            "from": "DGX.N",
             "to": "MCD.N"
+        },
+        {
+            "from": "DGX.N",
+            "to": "BAX.N"
         },
         {
             "from": "DGX.N",
@@ -3016,6 +5908,14 @@
         },
         {
             "from": "DGX.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "DGX.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "DGX.N",
             "to": "DRI.N"
         },
         {
@@ -3024,7 +5924,23 @@
         },
         {
             "from": "DGX.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "DGX.N",
             "to": "EXPD.O"
+        },
+        {
+            "from": "DGX.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "DGX.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "DGX.N",
+            "to": "ABT.N"
         },
         {
             "from": "DGX.N",
@@ -3055,8 +5971,20 @@
             "to": "LUV.N"
         },
         {
+            "from": "DGX.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "MRO.N",
+            "to": "BMY.N"
+        },
+        {
             "from": "MRO.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "MRO.N",
+            "to": "AMZN.O"
         },
         {
             "from": "MRO.N",
@@ -3065,6 +5993,22 @@
         {
             "from": "MRO.N",
             "to": "MUR.N"
+        },
+        {
+            "from": "MRO.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "MRO.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "MRO.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "MRO.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "MRO.N",
@@ -3080,7 +6024,15 @@
         },
         {
             "from": "MRO.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "MRO.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "MRO.N",
+            "to": "T.N"
         },
         {
             "from": "MRO.N",
@@ -3120,7 +6072,19 @@
         },
         {
             "from": "MRO.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "MRO.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "MRO.N",
             "to": "DGX.N"
+        },
+        {
+            "from": "MRO.N",
+            "to": "CRM.N"
         },
         {
             "from": "MRO.N",
@@ -3128,7 +6092,15 @@
         },
         {
             "from": "MRO.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "MRO.N",
             "to": "HON.N"
+        },
+        {
+            "from": "MRO.N",
+            "to": "EL.N"
         },
         {
             "from": "MRO.N",
@@ -3153,6 +6125,10 @@
         {
             "from": "MRO.N",
             "to": "NVDA.O"
+        },
+        {
+            "from": "MRO.N",
+            "to": "MSFT.O"
         },
         {
             "from": "MRO.N",
@@ -3168,7 +6144,27 @@
         },
         {
             "from": "MRO.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "MRO.N",
             "to": "EXPD.O"
+        },
+        {
+            "from": "MRO.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "MRO.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "MRO.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "MRO.N",
+            "to": "VLO.N"
         },
         {
             "from": "MRO.N",
@@ -3188,7 +6184,199 @@
         },
         {
             "from": "MRO.N",
+            "to": "CCL.N"
+        },
+        {
+            "from": "MRO.N",
             "to": "LUV.N"
+        },
+        {
+            "from": "MRO.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "BMY.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "RHI.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "KEY.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "MUR.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "CRM.N",
+            "to": "SYY.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "HST.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "LNC.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "T.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "STI.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "PGR.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "WFC.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "ROST.O"
+        },
+        {
+            "from": "CRM.N",
+            "to": "FISV.O"
+        },
+        {
+            "from": "CRM.N",
+            "to": "FAST.O"
+        },
+        {
+            "from": "CRM.N",
+            "to": "RF.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "CMA.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "CRM.N",
+            "to": "DGX.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "MRO.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "GE.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "MCD.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "MGM.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "CRM.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "CRM.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "DRI.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "BEN.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "CRM.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "COP.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "LEG.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "APD.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "CCL.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "LUV.N"
+        },
+        {
+            "from": "CRM.N",
+            "to": "EXC.N"
         },
         {
             "from": "GE.N",
@@ -3197,6 +6385,10 @@
         {
             "from": "GE.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "GE.N",
+            "to": "AMZN.O"
         },
         {
             "from": "GE.N",
@@ -3220,6 +6412,10 @@
         },
         {
             "from": "GE.N",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "GE.N",
             "to": "SYY.N"
         },
         {
@@ -3232,7 +6428,15 @@
         },
         {
             "from": "GE.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "GE.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "GE.N",
+            "to": "T.N"
         },
         {
             "from": "GE.N",
@@ -3276,11 +6480,23 @@
         },
         {
             "from": "GE.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "GE.N",
             "to": "DGX.N"
         },
         {
             "from": "GE.N",
             "to": "MRO.N"
+        },
+        {
+            "from": "GE.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "GE.N",
+            "to": "FLR.N"
         },
         {
             "from": "GE.N",
@@ -3304,6 +6520,10 @@
         },
         {
             "from": "GE.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "GE.N",
             "to": "HAL.N"
         },
         {
@@ -3312,11 +6532,23 @@
         },
         {
             "from": "GE.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "GE.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "GE.N",
             "to": "DRI.N"
         },
         {
             "from": "GE.N",
             "to": "BEN.N"
+        },
+        {
+            "from": "GE.N",
+            "to": "JBL.N"
         },
         {
             "from": "GE.N",
@@ -3329,6 +6561,14 @@
         {
             "from": "GE.N",
             "to": "AMT.N"
+        },
+        {
+            "from": "GE.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "GE.N",
+            "to": "ABT.N"
         },
         {
             "from": "GE.N",
@@ -3359,8 +6599,216 @@
             "to": "LUV.N"
         },
         {
+            "from": "GE.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "BMY.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "RHI.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "KEY.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "MUR.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "FLR.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "SYY.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "HST.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "LNC.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "T.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "STI.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "PGR.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "WFC.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "ROST.O"
+        },
+        {
+            "from": "FLR.N",
+            "to": "FISV.O"
+        },
+        {
+            "from": "FLR.N",
+            "to": "FAST.O"
+        },
+        {
+            "from": "FLR.N",
+            "to": "RF.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "CMA.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "FLR.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "FLR.N",
+            "to": "DGX.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "MRO.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "GE.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "EL.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "MCD.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "MGM.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "FLR.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "FLR.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "FLR.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "DRI.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "BEN.N"
+        },
+        {
             "from": "FLR.N",
             "to": "EXPD.O"
+        },
+        {
+            "from": "FLR.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "FLR.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "COP.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "LEG.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "APD.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "CCL.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "LUV.N"
+        },
+        {
+            "from": "FLR.N",
+            "to": "EXC.N"
         },
         {
             "from": "HON.N",
@@ -3372,7 +6820,23 @@
         },
         {
             "from": "HON.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "HON.N",
             "to": "KEY.N"
+        },
+        {
+            "from": "HON.N",
+            "to": "MUR.N"
+        },
+        {
+            "from": "HON.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "HON.N",
+            "to": "KLAC.O"
         },
         {
             "from": "HON.N",
@@ -3380,7 +6844,15 @@
         },
         {
             "from": "HON.N",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "HON.N",
             "to": "SYY.N"
+        },
+        {
+            "from": "HON.N",
+            "to": "OMC.N"
         },
         {
             "from": "HON.N",
@@ -3388,7 +6860,19 @@
         },
         {
             "from": "HON.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "HON.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "HON.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "HON.N",
+            "to": "T.N"
         },
         {
             "from": "HON.N",
@@ -3401,6 +6885,14 @@
         {
             "from": "HON.N",
             "to": "WFC.N"
+        },
+        {
+            "from": "HON.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "HON.N",
+            "to": "ROST.O"
         },
         {
             "from": "HON.N",
@@ -3420,6 +6912,14 @@
         },
         {
             "from": "HON.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "HON.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "HON.N",
             "to": "DGX.N"
         },
         {
@@ -3428,7 +6928,19 @@
         },
         {
             "from": "HON.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "HON.N",
             "to": "GE.N"
+        },
+        {
+            "from": "HON.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "HON.N",
+            "to": "EL.N"
         },
         {
             "from": "HON.N",
@@ -3436,7 +6948,15 @@
         },
         {
             "from": "HON.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "HON.N",
             "to": "MGM.N"
+        },
+        {
+            "from": "HON.N",
+            "to": "COST.O"
         },
         {
             "from": "HON.N",
@@ -3452,6 +6972,10 @@
         },
         {
             "from": "HON.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "HON.N",
             "to": "DRI.N"
         },
         {
@@ -3460,7 +6984,27 @@
         },
         {
             "from": "HON.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "HON.N",
             "to": "EXPD.O"
+        },
+        {
+            "from": "HON.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "HON.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "HON.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "HON.N",
+            "to": "ABT.N"
         },
         {
             "from": "HON.N",
@@ -3480,11 +7024,55 @@
         },
         {
             "from": "HON.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "HON.N",
+            "to": "PPL.N"
+        },
+        {
+            "from": "HON.N",
             "to": "CCL.N"
         },
         {
             "from": "HON.N",
             "to": "LUV.N"
+        },
+        {
+            "from": "HON.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "CAH.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "CAH.N",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "CAH.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "CAH.N",
+            "to": "EL.N"
+        },
+        {
+            "from": "CAH.N",
+            "to": "OXY.N"
+        },
+        {
+            "from": "CAH.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "CAH.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "CAH.N",
+            "to": "ABT.N"
         },
         {
             "from": "EL.N",
@@ -3504,7 +7092,15 @@
         },
         {
             "from": "EL.N",
+            "to": "MUR.N"
+        },
+        {
+            "from": "EL.N",
             "to": "CAG.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "KLAC.O"
         },
         {
             "from": "EL.N",
@@ -3516,6 +7112,22 @@
         },
         {
             "from": "EL.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "HST.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "EL.N",
             "to": "LNC.N"
         },
         {
@@ -3524,7 +7136,23 @@
         },
         {
             "from": "EL.N",
+            "to": "PGR.N"
+        },
+        {
+            "from": "EL.N",
             "to": "WFC.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "ROST.O"
+        },
+        {
+            "from": "EL.N",
+            "to": "FISV.O"
         },
         {
             "from": "EL.N",
@@ -3544,7 +7172,35 @@
         },
         {
             "from": "EL.N",
+            "to": "DGX.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "MRO.N"
+        },
+        {
+            "from": "EL.N",
             "to": "GE.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "CAH.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "MCD.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "BAX.N"
         },
         {
             "from": "EL.N",
@@ -3552,7 +7208,39 @@
         },
         {
             "from": "EL.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "EL.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "EL.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "EL.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "EL.N",
             "to": "DRI.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "BEN.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "EL.N",
+            "to": "OXY.N"
         },
         {
             "from": "EL.N",
@@ -3560,11 +7248,35 @@
         },
         {
             "from": "EL.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "EL.N",
             "to": "VLO.N"
         },
         {
             "from": "EL.N",
+            "to": "COP.N"
+        },
+        {
+            "from": "EL.N",
             "to": "LEG.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "APD.N"
+        },
+        {
+            "from": "EL.N",
+            "to": "NBR.N"
         },
         {
             "from": "EL.N",
@@ -3584,6 +7296,10 @@
         },
         {
             "from": "MCD.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "MCD.N",
             "to": "KEY.N"
         },
         {
@@ -3592,11 +7308,19 @@
         },
         {
             "from": "MCD.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "MCD.N",
             "to": "KLAC.O"
         },
         {
             "from": "MCD.N",
             "to": "BA.N"
+        },
+        {
+            "from": "MCD.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "MCD.N",
@@ -3612,7 +7336,15 @@
         },
         {
             "from": "MCD.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "MCD.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "MCD.N",
+            "to": "T.N"
         },
         {
             "from": "MCD.N",
@@ -3652,6 +7384,14 @@
         },
         {
             "from": "MCD.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "MCD.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "MCD.N",
             "to": "DGX.N"
         },
         {
@@ -3660,11 +7400,27 @@
         },
         {
             "from": "MCD.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "MCD.N",
             "to": "GE.N"
         },
         {
             "from": "MCD.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "MCD.N",
             "to": "HON.N"
+        },
+        {
+            "from": "MCD.N",
+            "to": "EL.N"
+        },
+        {
+            "from": "MCD.N",
+            "to": "BAX.N"
         },
         {
             "from": "MCD.N",
@@ -3684,6 +7440,14 @@
         },
         {
             "from": "MCD.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "MCD.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "MCD.N",
             "to": "DRI.N"
         },
         {
@@ -3692,7 +7456,23 @@
         },
         {
             "from": "MCD.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "MCD.N",
             "to": "EXPD.O"
+        },
+        {
+            "from": "MCD.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "MCD.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "MCD.N",
+            "to": "ABT.N"
         },
         {
             "from": "MCD.N",
@@ -3723,8 +7503,20 @@
             "to": "LUV.N"
         },
         {
+            "from": "MCD.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "BMY.N"
+        },
+        {
             "from": "BAX.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "AMZN.O"
         },
         {
             "from": "BAX.N",
@@ -3732,7 +7524,27 @@
         },
         {
             "from": "BAX.N",
+            "to": "MUR.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "BAX.N",
             "to": "BA.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "SYY.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "OMC.N"
         },
         {
             "from": "BAX.N",
@@ -3740,7 +7552,19 @@
         },
         {
             "from": "BAX.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "BAX.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "T.N"
         },
         {
             "from": "BAX.N",
@@ -3756,6 +7580,18 @@
         },
         {
             "from": "BAX.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "ROST.O"
+        },
+        {
+            "from": "BAX.N",
+            "to": "FISV.O"
+        },
+        {
+            "from": "BAX.N",
             "to": "FAST.O"
         },
         {
@@ -3768,11 +7604,51 @@
         },
         {
             "from": "BAX.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "BAX.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "BAX.N",
+            "to": "DGX.N"
+        },
+        {
+            "from": "BAX.N",
             "to": "MRO.N"
         },
         {
             "from": "BAX.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "BAX.N",
             "to": "GE.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "EL.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "MCD.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "MGM.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "COST.O"
         },
         {
             "from": "BAX.N",
@@ -3784,6 +7660,14 @@
         },
         {
             "from": "BAX.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "BAX.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "BAX.N",
             "to": "DRI.N"
         },
         {
@@ -3792,11 +7676,39 @@
         },
         {
             "from": "BAX.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "BAX.N",
             "to": "EXPD.O"
         },
         {
             "from": "BAX.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "BAX.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "BAX.N",
             "to": "COP.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "LEG.N"
         },
         {
             "from": "BAX.N",
@@ -3808,7 +7720,15 @@
         },
         {
             "from": "BAX.N",
+            "to": "CCL.N"
+        },
+        {
+            "from": "BAX.N",
             "to": "LUV.N"
+        },
+        {
+            "from": "BAX.N",
+            "to": "EXC.N"
         },
         {
             "from": "MGM.N",
@@ -3817,6 +7737,10 @@
         {
             "from": "MGM.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "MGM.N",
+            "to": "AMZN.O"
         },
         {
             "from": "MGM.N",
@@ -3840,6 +7764,10 @@
         },
         {
             "from": "MGM.N",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "MGM.N",
             "to": "SYY.N"
         },
         {
@@ -3852,11 +7780,27 @@
         },
         {
             "from": "MGM.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "MGM.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "MGM.N",
             "to": "LNC.N"
         },
         {
             "from": "MGM.N",
+            "to": "T.N"
+        },
+        {
+            "from": "MGM.N",
             "to": "STI.N"
+        },
+        {
+            "from": "MGM.N",
+            "to": "PGR.N"
         },
         {
             "from": "MGM.N",
@@ -3892,6 +7836,10 @@
         },
         {
             "from": "MGM.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "MGM.N",
             "to": "DGX.N"
         },
         {
@@ -3900,7 +7848,15 @@
         },
         {
             "from": "MGM.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "MGM.N",
             "to": "GE.N"
+        },
+        {
+            "from": "MGM.N",
+            "to": "FLR.N"
         },
         {
             "from": "MGM.N",
@@ -3916,11 +7872,27 @@
         },
         {
             "from": "MGM.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "MGM.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "MGM.N",
             "to": "HAL.N"
         },
         {
             "from": "MGM.N",
             "to": "NVDA.O"
+        },
+        {
+            "from": "MGM.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "MGM.N",
+            "to": "FE.N"
         },
         {
             "from": "MGM.N",
@@ -3944,6 +7916,14 @@
         },
         {
             "from": "MGM.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "MGM.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "MGM.N",
             "to": "VLO.N"
         },
         {
@@ -3971,12 +7951,60 @@
             "to": "LUV.N"
         },
         {
+            "from": "MGM.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "BMY.N"
+        },
+        {
             "from": "COST.O",
             "to": "RHI.N"
         },
         {
             "from": "COST.O",
+            "to": "KEY.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "MUR.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "CAG.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "COST.O",
+            "to": "BA.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "COST.O",
+            "to": "SYY.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "OMC.N"
+        },
+        {
+            "from": "COST.O",
             "to": "HST.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "MO.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "LNC.N"
         },
         {
             "from": "COST.O",
@@ -3992,11 +8020,39 @@
         },
         {
             "from": "COST.O",
+            "to": "WFC.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "MMC.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "ROST.O"
+        },
+        {
+            "from": "COST.O",
             "to": "FISV.O"
         },
         {
             "from": "COST.O",
+            "to": "FAST.O"
+        },
+        {
+            "from": "COST.O",
+            "to": "RF.N"
+        },
+        {
+            "from": "COST.O",
             "to": "CMA.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "CELG.O"
+        },
+        {
+            "from": "COST.O",
+            "to": "HOLX.O"
         },
         {
             "from": "COST.O",
@@ -4008,7 +8064,35 @@
         },
         {
             "from": "COST.O",
+            "to": "CRM.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "GE.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "FLR.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "HON.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "EL.N"
+        },
+        {
+            "from": "COST.O",
             "to": "MCD.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "BAX.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "MGM.N"
         },
         {
             "from": "COST.O",
@@ -4020,7 +8104,55 @@
         },
         {
             "from": "COST.O",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "COST.O",
+            "to": "FE.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "DRI.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "BEN.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "JBL.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "COST.O",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "COST.O",
+            "to": "AMT.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "ABT.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "VLO.N"
+        },
+        {
+            "from": "COST.O",
             "to": "COP.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "LEG.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "APD.N"
         },
         {
             "from": "COST.O",
@@ -4028,15 +8160,67 @@
         },
         {
             "from": "COST.O",
+            "to": "CCL.N"
+        },
+        {
+            "from": "COST.O",
             "to": "LUV.N"
+        },
+        {
+            "from": "COST.O",
+            "to": "EXC.N"
+        },
+        {
+            "from": "CMS.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "CMS.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "CMS.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "CMS.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "CMS.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "CMS.N",
+            "to": "AFL.N"
+        },
+        {
+            "from": "CMS.N",
+            "to": "AMT.N"
         },
         {
             "from": "CMS.N",
             "to": "EIX.N"
         },
         {
+            "from": "CMS.N",
+            "to": "PPL.N"
+        },
+        {
+            "from": "CMS.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "HAL.N",
+            "to": "BMY.N"
+        },
+        {
             "from": "HAL.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "HAL.N",
+            "to": "AMZN.O"
         },
         {
             "from": "HAL.N",
@@ -4048,7 +8232,19 @@
         },
         {
             "from": "HAL.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "HAL.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "HAL.N",
             "to": "BA.N"
+        },
+        {
+            "from": "HAL.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "HAL.N",
@@ -4056,11 +8252,27 @@
         },
         {
             "from": "HAL.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "HAL.N",
             "to": "HST.N"
         },
         {
             "from": "HAL.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "HAL.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "HAL.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "HAL.N",
+            "to": "T.N"
         },
         {
             "from": "HAL.N",
@@ -4073,6 +8285,14 @@
         {
             "from": "HAL.N",
             "to": "WFC.N"
+        },
+        {
+            "from": "HAL.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "HAL.N",
+            "to": "ROST.O"
         },
         {
             "from": "HAL.N",
@@ -4092,6 +8312,14 @@
         },
         {
             "from": "HAL.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "HAL.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "HAL.N",
             "to": "DGX.N"
         },
         {
@@ -4100,11 +8328,23 @@
         },
         {
             "from": "HAL.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "HAL.N",
             "to": "GE.N"
         },
         {
             "from": "HAL.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "HAL.N",
             "to": "HON.N"
+        },
+        {
+            "from": "HAL.N",
+            "to": "EL.N"
         },
         {
             "from": "HAL.N",
@@ -4128,6 +8368,14 @@
         },
         {
             "from": "HAL.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "HAL.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "HAL.N",
             "to": "DRI.N"
         },
         {
@@ -4136,7 +8384,23 @@
         },
         {
             "from": "HAL.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "HAL.N",
             "to": "EXPD.O"
+        },
+        {
+            "from": "HAL.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "HAL.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "HAL.N",
+            "to": "ABT.N"
         },
         {
             "from": "HAL.N",
@@ -4160,7 +8424,15 @@
         },
         {
             "from": "HAL.N",
+            "to": "CCL.N"
+        },
+        {
+            "from": "HAL.N",
             "to": "LUV.N"
+        },
+        {
+            "from": "HAL.N",
+            "to": "EXC.N"
         },
         {
             "from": "NVDA.O",
@@ -4172,7 +8444,19 @@
         },
         {
             "from": "NVDA.O",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "NVDA.O",
             "to": "KEY.N"
+        },
+        {
+            "from": "NVDA.O",
+            "to": "MUR.N"
+        },
+        {
+            "from": "NVDA.O",
+            "to": "CAG.N"
         },
         {
             "from": "NVDA.O",
@@ -4196,7 +8480,15 @@
         },
         {
             "from": "NVDA.O",
+            "to": "MO.N"
+        },
+        {
+            "from": "NVDA.O",
             "to": "LNC.N"
+        },
+        {
+            "from": "NVDA.O",
+            "to": "T.N"
         },
         {
             "from": "NVDA.O",
@@ -4209,6 +8501,14 @@
         {
             "from": "NVDA.O",
             "to": "WFC.N"
+        },
+        {
+            "from": "NVDA.O",
+            "to": "MMC.N"
+        },
+        {
+            "from": "NVDA.O",
+            "to": "ROST.O"
         },
         {
             "from": "NVDA.O",
@@ -4228,6 +8528,14 @@
         },
         {
             "from": "NVDA.O",
+            "to": "CELG.O"
+        },
+        {
+            "from": "NVDA.O",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "NVDA.O",
             "to": "DGX.N"
         },
         {
@@ -4236,11 +8544,23 @@
         },
         {
             "from": "NVDA.O",
+            "to": "CRM.N"
+        },
+        {
+            "from": "NVDA.O",
             "to": "GE.N"
         },
         {
             "from": "NVDA.O",
+            "to": "FLR.N"
+        },
+        {
+            "from": "NVDA.O",
             "to": "HON.N"
+        },
+        {
+            "from": "NVDA.O",
+            "to": "EL.N"
         },
         {
             "from": "NVDA.O",
@@ -4268,11 +8588,39 @@
         },
         {
             "from": "NVDA.O",
+            "to": "FE.N"
+        },
+        {
+            "from": "NVDA.O",
             "to": "DRI.N"
         },
         {
             "from": "NVDA.O",
             "to": "BEN.N"
+        },
+        {
+            "from": "NVDA.O",
+            "to": "JBL.N"
+        },
+        {
+            "from": "NVDA.O",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "NVDA.O",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "NVDA.O",
+            "to": "AMT.N"
+        },
+        {
+            "from": "NVDA.O",
+            "to": "KMB.N"
+        },
+        {
+            "from": "NVDA.O",
+            "to": "ABT.N"
         },
         {
             "from": "NVDA.O",
@@ -4303,8 +8651,60 @@
             "to": "LUV.N"
         },
         {
+            "from": "NVDA.O",
+            "to": "EXC.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "BMY.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "RHI.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "KEY.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "MUR.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "CAG.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "KLAC.O"
+        },
+        {
             "from": "MSFT.O",
             "to": "BA.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "SYY.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "OMC.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "HST.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "ADM.N"
         },
         {
             "from": "MSFT.O",
@@ -4312,7 +8712,71 @@
         },
         {
             "from": "MSFT.O",
+            "to": "LNC.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "T.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "STI.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "PGR.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "WFC.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "MMC.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "ROST.O"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "FISV.O"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "FAST.O"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "RF.N"
+        },
+        {
+            "from": "MSFT.O",
             "to": "CMA.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "CELG.O"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "DGX.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "MRO.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "GE.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "FLR.N"
         },
         {
             "from": "MSFT.O",
@@ -4320,7 +8784,63 @@
         },
         {
             "from": "MSFT.O",
+            "to": "EL.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "MCD.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "BAX.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "MGM.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "COST.O"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "CMS.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "HAL.N"
+        },
+        {
+            "from": "MSFT.O",
             "to": "NVDA.O"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "DRI.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "BEN.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "JBL.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "KMB.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "ABT.N"
         },
         {
             "from": "MSFT.O",
@@ -4331,12 +8851,228 @@
             "to": "COP.N"
         },
         {
+            "from": "MSFT.O",
+            "to": "LEG.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "APD.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "NBR.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "PPL.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "CCL.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "LUV.N"
+        },
+        {
+            "from": "MSFT.O",
+            "to": "EXC.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "BMY.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "RHI.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "KEY.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "MUR.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "FE.N",
+            "to": "SYY.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "HST.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "LNC.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "T.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "STI.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "PGR.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "WFC.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "ROST.O"
+        },
+        {
+            "from": "FE.N",
+            "to": "FISV.O"
+        },
+        {
+            "from": "FE.N",
+            "to": "FAST.O"
+        },
+        {
+            "from": "FE.N",
+            "to": "RF.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "CMA.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "FE.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "FE.N",
+            "to": "DGX.N"
+        },
+        {
             "from": "FE.N",
             "to": "MRO.N"
         },
         {
             "from": "FE.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "GE.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "EL.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "MCD.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "MGM.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "FE.N",
+            "to": "CMS.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "FE.N",
+            "to": "DRI.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "BEN.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "FE.N",
             "to": "AMT.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "EIX.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "COP.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "LEG.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "APD.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "CCL.N"
+        },
+        {
+            "from": "FE.N",
+            "to": "LUV.N"
         },
         {
             "from": "DRI.N",
@@ -4348,7 +9084,15 @@
         },
         {
             "from": "DRI.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "DRI.N",
             "to": "KEY.N"
+        },
+        {
+            "from": "DRI.N",
+            "to": "MUR.N"
         },
         {
             "from": "DRI.N",
@@ -4376,7 +9120,19 @@
         },
         {
             "from": "DRI.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "DRI.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "DRI.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "DRI.N",
+            "to": "T.N"
         },
         {
             "from": "DRI.N",
@@ -4420,6 +9176,10 @@
         },
         {
             "from": "DRI.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "DRI.N",
             "to": "DGX.N"
         },
         {
@@ -4428,7 +9188,15 @@
         },
         {
             "from": "DRI.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "DRI.N",
             "to": "GE.N"
+        },
+        {
+            "from": "DRI.N",
+            "to": "FLR.N"
         },
         {
             "from": "DRI.N",
@@ -4452,11 +9220,23 @@
         },
         {
             "from": "DRI.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "DRI.N",
             "to": "HAL.N"
         },
         {
             "from": "DRI.N",
             "to": "NVDA.O"
+        },
+        {
+            "from": "DRI.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "DRI.N",
+            "to": "FE.N"
         },
         {
             "from": "DRI.N",
@@ -4473,6 +9253,14 @@
         {
             "from": "DRI.N",
             "to": "AMT.N"
+        },
+        {
+            "from": "DRI.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "DRI.N",
+            "to": "ABT.N"
         },
         {
             "from": "DRI.N",
@@ -4503,12 +9291,20 @@
             "to": "LUV.N"
         },
         {
+            "from": "DRI.N",
+            "to": "EXC.N"
+        },
+        {
             "from": "BEN.N",
             "to": "BMY.N"
         },
         {
             "from": "BEN.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "BEN.N",
+            "to": "AMZN.O"
         },
         {
             "from": "BEN.N",
@@ -4524,7 +9320,15 @@
         },
         {
             "from": "BEN.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "BEN.N",
             "to": "BA.N"
+        },
+        {
+            "from": "BEN.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "BEN.N",
@@ -4541,6 +9345,10 @@
         {
             "from": "BEN.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "BEN.N",
+            "to": "T.N"
         },
         {
             "from": "BEN.N",
@@ -4584,6 +9392,10 @@
         },
         {
             "from": "BEN.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "BEN.N",
             "to": "DGX.N"
         },
         {
@@ -4592,11 +9404,23 @@
         },
         {
             "from": "BEN.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "BEN.N",
             "to": "GE.N"
         },
         {
             "from": "BEN.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "BEN.N",
             "to": "HON.N"
+        },
+        {
+            "from": "BEN.N",
+            "to": "EL.N"
         },
         {
             "from": "BEN.N",
@@ -4612,11 +9436,23 @@
         },
         {
             "from": "BEN.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "BEN.N",
             "to": "HAL.N"
         },
         {
             "from": "BEN.N",
             "to": "NVDA.O"
+        },
+        {
+            "from": "BEN.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "BEN.N",
+            "to": "FE.N"
         },
         {
             "from": "BEN.N",
@@ -4628,7 +9464,15 @@
         },
         {
             "from": "BEN.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "BEN.N",
             "to": "AMT.N"
+        },
+        {
+            "from": "BEN.N",
+            "to": "ABT.N"
         },
         {
             "from": "BEN.N",
@@ -4659,8 +9503,188 @@
             "to": "LUV.N"
         },
         {
+            "from": "JBL.N",
+            "to": "BMY.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "RHI.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "JBL.N",
+            "to": "SYY.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "HST.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "T.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "STI.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "PGR.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "WFC.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "FISV.O"
+        },
+        {
+            "from": "JBL.N",
+            "to": "RF.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "CMA.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "JBL.N",
+            "to": "DGX.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "MRO.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "GE.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "MCD.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "JBL.N",
+            "to": "CMS.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "JBL.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "JBL.N",
+            "to": "EIX.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "COP.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "LEG.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "APD.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "PPL.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "LUV.N"
+        },
+        {
+            "from": "JBL.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "AFL.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "AFL.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "AFL.N",
+            "to": "CMS.N"
+        },
+        {
+            "from": "AFL.N",
+            "to": "EIX.N"
+        },
+        {
+            "from": "AFL.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "AFL.N",
+            "to": "PPL.N"
+        },
+        {
+            "from": "AFL.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "BMY.N"
+        },
+        {
             "from": "EXPD.O",
             "to": "RHI.N"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "AMZN.O"
         },
         {
             "from": "EXPD.O",
@@ -4672,7 +9696,27 @@
         },
         {
             "from": "EXPD.O",
+            "to": "CAG.N"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "EXPD.O",
             "to": "BA.N"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "SYY.N"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "OMC.N"
         },
         {
             "from": "EXPD.O",
@@ -4680,7 +9724,19 @@
         },
         {
             "from": "EXPD.O",
+            "to": "ADM.N"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "MO.N"
+        },
+        {
+            "from": "EXPD.O",
             "to": "LNC.N"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "T.N"
         },
         {
             "from": "EXPD.O",
@@ -4688,7 +9744,23 @@
         },
         {
             "from": "EXPD.O",
+            "to": "PGR.N"
+        },
+        {
+            "from": "EXPD.O",
             "to": "WFC.N"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "MMC.N"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "ROST.O"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "FISV.O"
         },
         {
             "from": "EXPD.O",
@@ -4704,11 +9776,23 @@
         },
         {
             "from": "EXPD.O",
+            "to": "CELG.O"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "EXPD.O",
             "to": "DGX.N"
         },
         {
             "from": "EXPD.O",
             "to": "MRO.N"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "CRM.N"
         },
         {
             "from": "EXPD.O",
@@ -4724,6 +9808,10 @@
         },
         {
             "from": "EXPD.O",
+            "to": "EL.N"
+        },
+        {
+            "from": "EXPD.O",
             "to": "MCD.N"
         },
         {
@@ -4736,7 +9824,23 @@
         },
         {
             "from": "EXPD.O",
+            "to": "COST.O"
+        },
+        {
+            "from": "EXPD.O",
             "to": "HAL.N"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "FE.N"
         },
         {
             "from": "EXPD.O",
@@ -4745,6 +9849,22 @@
         {
             "from": "EXPD.O",
             "to": "BEN.N"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "AMT.N"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "ABT.N"
+        },
+        {
+            "from": "EXPD.O",
+            "to": "VLO.N"
         },
         {
             "from": "EXPD.O",
@@ -4771,8 +9891,48 @@
             "to": "LUV.N"
         },
         {
+            "from": "EXPD.O",
+            "to": "EXC.N"
+        },
+        {
+            "from": "OXY.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "OXY.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "OXY.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "OXY.N",
+            "to": "CAH.N"
+        },
+        {
+            "from": "OXY.N",
+            "to": "EL.N"
+        },
+        {
+            "from": "OXY.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "OXY.N",
+            "to": "EIX.N"
+        },
+        {
+            "from": "OXY.N",
+            "to": "KMB.N"
+        },
+        {
             "from": "FFIV.O",
             "to": "BMY.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "RHI.N"
         },
         {
             "from": "FFIV.O",
@@ -4781,6 +9941,14 @@
         {
             "from": "FFIV.O",
             "to": "KEY.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "MUR.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "CAG.N"
         },
         {
             "from": "FFIV.O",
@@ -4796,6 +9964,22 @@
         },
         {
             "from": "FFIV.O",
+            "to": "OMC.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "HST.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "ADM.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "MO.N"
+        },
+        {
+            "from": "FFIV.O",
             "to": "LNC.N"
         },
         {
@@ -4804,7 +9988,23 @@
         },
         {
             "from": "FFIV.O",
+            "to": "PGR.N"
+        },
+        {
+            "from": "FFIV.O",
             "to": "WFC.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "MMC.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "ROST.O"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "FISV.O"
         },
         {
             "from": "FFIV.O",
@@ -4824,7 +10024,27 @@
         },
         {
             "from": "FFIV.O",
+            "to": "DGX.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "MRO.N"
+        },
+        {
+            "from": "FFIV.O",
             "to": "GE.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "FLR.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "HON.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "CAH.N"
         },
         {
             "from": "FFIV.O",
@@ -4832,7 +10052,31 @@
         },
         {
             "from": "FFIV.O",
+            "to": "MCD.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "BAX.N"
+        },
+        {
+            "from": "FFIV.O",
             "to": "MGM.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "COST.O"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "HAL.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "MSFT.O"
         },
         {
             "from": "FFIV.O",
@@ -4840,7 +10084,35 @@
         },
         {
             "from": "FFIV.O",
+            "to": "BEN.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "OXY.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "AMT.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "KMB.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "ABT.N"
+        },
+        {
+            "from": "FFIV.O",
             "to": "VLO.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "COP.N"
         },
         {
             "from": "FFIV.O",
@@ -4848,7 +10120,27 @@
         },
         {
             "from": "FFIV.O",
+            "to": "APD.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "NBR.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "PPL.N"
+        },
+        {
+            "from": "FFIV.O",
             "to": "CCL.N"
+        },
+        {
+            "from": "FFIV.O",
+            "to": "LUV.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "BMY.N"
         },
         {
             "from": "AMT.N",
@@ -4856,7 +10148,15 @@
         },
         {
             "from": "AMT.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "AMT.N",
             "to": "KEY.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "MUR.N"
         },
         {
             "from": "AMT.N",
@@ -4864,11 +10164,39 @@
         },
         {
             "from": "AMT.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "AMT.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "SYY.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "HST.N"
+        },
+        {
+            "from": "AMT.N",
             "to": "LNC.N"
         },
         {
             "from": "AMT.N",
+            "to": "T.N"
+        },
+        {
+            "from": "AMT.N",
             "to": "STI.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "PGR.N"
         },
         {
             "from": "AMT.N",
@@ -4880,6 +10208,14 @@
         },
         {
             "from": "AMT.N",
+            "to": "ROST.O"
+        },
+        {
+            "from": "AMT.N",
+            "to": "FISV.O"
+        },
+        {
+            "from": "AMT.N",
             "to": "FAST.O"
         },
         {
@@ -4888,7 +10224,27 @@
         },
         {
             "from": "AMT.N",
+            "to": "CMA.N"
+        },
+        {
+            "from": "AMT.N",
             "to": "CELG.O"
+        },
+        {
+            "from": "AMT.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "AMT.N",
+            "to": "DGX.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "MRO.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "CRM.N"
         },
         {
             "from": "AMT.N",
@@ -4896,7 +10252,43 @@
         },
         {
             "from": "AMT.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "EL.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "MCD.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "AMT.N",
             "to": "MGM.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "AMT.N",
+            "to": "CMS.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "NVDA.O"
         },
         {
             "from": "AMT.N",
@@ -4912,11 +10304,435 @@
         },
         {
             "from": "AMT.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "AMT.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "AMT.N",
+            "to": "EIX.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "COP.N"
+        },
+        {
+            "from": "AMT.N",
             "to": "LEG.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "APD.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "CCL.N"
+        },
+        {
+            "from": "AMT.N",
+            "to": "LUV.N"
+        },
+        {
+            "from": "EIX.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "EIX.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "EIX.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "EIX.N",
+            "to": "CELG.O"
         },
         {
             "from": "EIX.N",
             "to": "CMS.N"
+        },
+        {
+            "from": "EIX.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "EIX.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "EIX.N",
+            "to": "AFL.N"
+        },
+        {
+            "from": "EIX.N",
+            "to": "OXY.N"
+        },
+        {
+            "from": "EIX.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "EIX.N",
+            "to": "PPL.N"
+        },
+        {
+            "from": "EIX.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "BMY.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "RHI.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "KMB.N",
+            "to": "KEY.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "KMB.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "SYY.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "LNC.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "STI.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "WFC.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "RF.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "CMA.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "KMB.N",
+            "to": "GE.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "CAH.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "EL.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "MGM.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "KMB.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "KMB.N",
+            "to": "DRI.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "OXY.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "KMB.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "PPL.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "CCL.N"
+        },
+        {
+            "from": "KMB.N",
+            "to": "LUV.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "BMY.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "RHI.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "ABT.N",
+            "to": "KEY.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "MUR.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "ABT.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "SYY.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "HST.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "LNC.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "STI.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "PGR.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "WFC.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "ROST.O"
+        },
+        {
+            "from": "ABT.N",
+            "to": "FISV.O"
+        },
+        {
+            "from": "ABT.N",
+            "to": "FAST.O"
+        },
+        {
+            "from": "ABT.N",
+            "to": "RF.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "CMA.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "ABT.N",
+            "to": "DGX.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "MRO.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "GE.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "CAH.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "EL.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "MCD.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "MGM.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "ABT.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "ABT.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "ABT.N",
+            "to": "DRI.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "BEN.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "AFL.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "ABT.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "ABT.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "COP.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "LEG.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "APD.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "PPL.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "CCL.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "LUV.N"
+        },
+        {
+            "from": "ABT.N",
+            "to": "EXC.N"
         },
         {
             "from": "VLO.N",
@@ -4928,7 +10744,19 @@
         },
         {
             "from": "VLO.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "VLO.N",
             "to": "KEY.N"
+        },
+        {
+            "from": "VLO.N",
+            "to": "MUR.N"
+        },
+        {
+            "from": "VLO.N",
+            "to": "CAG.N"
         },
         {
             "from": "VLO.N",
@@ -4944,11 +10772,27 @@
         },
         {
             "from": "VLO.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "VLO.N",
             "to": "HST.N"
         },
         {
             "from": "VLO.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "VLO.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "VLO.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "VLO.N",
+            "to": "T.N"
         },
         {
             "from": "VLO.N",
@@ -4961,6 +10805,14 @@
         {
             "from": "VLO.N",
             "to": "WFC.N"
+        },
+        {
+            "from": "VLO.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "VLO.N",
+            "to": "ROST.O"
         },
         {
             "from": "VLO.N",
@@ -4980,11 +10832,31 @@
         },
         {
             "from": "VLO.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "VLO.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "VLO.N",
             "to": "DGX.N"
         },
         {
             "from": "VLO.N",
+            "to": "MRO.N"
+        },
+        {
+            "from": "VLO.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "VLO.N",
             "to": "GE.N"
+        },
+        {
+            "from": "VLO.N",
+            "to": "FLR.N"
         },
         {
             "from": "VLO.N",
@@ -5000,7 +10872,15 @@
         },
         {
             "from": "VLO.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "VLO.N",
             "to": "MGM.N"
+        },
+        {
+            "from": "VLO.N",
+            "to": "COST.O"
         },
         {
             "from": "VLO.N",
@@ -5016,6 +10896,10 @@
         },
         {
             "from": "VLO.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "VLO.N",
             "to": "DRI.N"
         },
         {
@@ -5024,7 +10908,27 @@
         },
         {
             "from": "VLO.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "VLO.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "VLO.N",
             "to": "FFIV.O"
+        },
+        {
+            "from": "VLO.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "VLO.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "VLO.N",
+            "to": "ABT.N"
         },
         {
             "from": "VLO.N",
@@ -5040,11 +10944,23 @@
         },
         {
             "from": "VLO.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "VLO.N",
+            "to": "PPL.N"
+        },
+        {
+            "from": "VLO.N",
             "to": "CCL.N"
         },
         {
             "from": "VLO.N",
             "to": "LUV.N"
+        },
+        {
+            "from": "VLO.N",
+            "to": "EXC.N"
         },
         {
             "from": "COP.N",
@@ -5056,6 +10972,10 @@
         },
         {
             "from": "COP.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "COP.N",
             "to": "KEY.N"
         },
         {
@@ -5064,7 +10984,19 @@
         },
         {
             "from": "COP.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "COP.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "COP.N",
             "to": "BA.N"
+        },
+        {
+            "from": "COP.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "COP.N",
@@ -5072,11 +11004,27 @@
         },
         {
             "from": "COP.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "COP.N",
             "to": "HST.N"
         },
         {
             "from": "COP.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "COP.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "COP.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "COP.N",
+            "to": "T.N"
         },
         {
             "from": "COP.N",
@@ -5089,6 +11037,14 @@
         {
             "from": "COP.N",
             "to": "WFC.N"
+        },
+        {
+            "from": "COP.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "COP.N",
+            "to": "ROST.O"
         },
         {
             "from": "COP.N",
@@ -5108,6 +11064,14 @@
         },
         {
             "from": "COP.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "COP.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "COP.N",
             "to": "DGX.N"
         },
         {
@@ -5116,11 +11080,23 @@
         },
         {
             "from": "COP.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "COP.N",
             "to": "GE.N"
         },
         {
             "from": "COP.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "COP.N",
             "to": "HON.N"
+        },
+        {
+            "from": "COP.N",
+            "to": "EL.N"
         },
         {
             "from": "COP.N",
@@ -5152,6 +11128,10 @@
         },
         {
             "from": "COP.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "COP.N",
             "to": "DRI.N"
         },
         {
@@ -5160,7 +11140,23 @@
         },
         {
             "from": "COP.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "COP.N",
             "to": "EXPD.O"
+        },
+        {
+            "from": "COP.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "COP.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "COP.N",
+            "to": "ABT.N"
         },
         {
             "from": "COP.N",
@@ -5180,11 +11176,19 @@
         },
         {
             "from": "COP.N",
+            "to": "PPL.N"
+        },
+        {
+            "from": "COP.N",
             "to": "CCL.N"
         },
         {
             "from": "COP.N",
             "to": "LUV.N"
+        },
+        {
+            "from": "COP.N",
+            "to": "EXC.N"
         },
         {
             "from": "LEG.N",
@@ -5196,7 +11200,15 @@
         },
         {
             "from": "LEG.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "LEG.N",
             "to": "KEY.N"
+        },
+        {
+            "from": "LEG.N",
+            "to": "MUR.N"
         },
         {
             "from": "LEG.N",
@@ -5204,7 +11216,15 @@
         },
         {
             "from": "LEG.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "LEG.N",
             "to": "BA.N"
+        },
+        {
+            "from": "LEG.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "LEG.N",
@@ -5220,7 +11240,15 @@
         },
         {
             "from": "LEG.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "LEG.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "LEG.N",
+            "to": "T.N"
         },
         {
             "from": "LEG.N",
@@ -5264,6 +11292,10 @@
         },
         {
             "from": "LEG.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "LEG.N",
             "to": "DGX.N"
         },
         {
@@ -5272,7 +11304,15 @@
         },
         {
             "from": "LEG.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "LEG.N",
             "to": "GE.N"
+        },
+        {
+            "from": "LEG.N",
+            "to": "FLR.N"
         },
         {
             "from": "LEG.N",
@@ -5288,7 +11328,15 @@
         },
         {
             "from": "LEG.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "LEG.N",
             "to": "MGM.N"
+        },
+        {
+            "from": "LEG.N",
+            "to": "COST.O"
         },
         {
             "from": "LEG.N",
@@ -5300,11 +11348,23 @@
         },
         {
             "from": "LEG.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "LEG.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "LEG.N",
             "to": "DRI.N"
         },
         {
             "from": "LEG.N",
             "to": "BEN.N"
+        },
+        {
+            "from": "LEG.N",
+            "to": "JBL.N"
         },
         {
             "from": "LEG.N",
@@ -5320,6 +11380,10 @@
         },
         {
             "from": "LEG.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "LEG.N",
             "to": "VLO.N"
         },
         {
@@ -5332,11 +11396,19 @@
         },
         {
             "from": "LEG.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "LEG.N",
             "to": "CCL.N"
         },
         {
             "from": "LEG.N",
             "to": "LUV.N"
+        },
+        {
+            "from": "LEG.N",
+            "to": "EXC.N"
         },
         {
             "from": "APD.N",
@@ -5348,6 +11420,10 @@
         },
         {
             "from": "APD.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "APD.N",
             "to": "KEY.N"
         },
         {
@@ -5356,7 +11432,19 @@
         },
         {
             "from": "APD.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "APD.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "APD.N",
             "to": "BA.N"
+        },
+        {
+            "from": "APD.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "APD.N",
@@ -5372,7 +11460,19 @@
         },
         {
             "from": "APD.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "APD.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "APD.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "APD.N",
+            "to": "T.N"
         },
         {
             "from": "APD.N",
@@ -5412,6 +11512,14 @@
         },
         {
             "from": "APD.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "APD.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "APD.N",
             "to": "DGX.N"
         },
         {
@@ -5420,11 +11528,23 @@
         },
         {
             "from": "APD.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "APD.N",
             "to": "GE.N"
         },
         {
             "from": "APD.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "APD.N",
             "to": "HON.N"
+        },
+        {
+            "from": "APD.N",
+            "to": "EL.N"
         },
         {
             "from": "APD.N",
@@ -5440,11 +11560,23 @@
         },
         {
             "from": "APD.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "APD.N",
             "to": "HAL.N"
         },
         {
             "from": "APD.N",
             "to": "NVDA.O"
+        },
+        {
+            "from": "APD.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "APD.N",
+            "to": "FE.N"
         },
         {
             "from": "APD.N",
@@ -5456,7 +11588,23 @@
         },
         {
             "from": "APD.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "APD.N",
             "to": "EXPD.O"
+        },
+        {
+            "from": "APD.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "APD.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "APD.N",
+            "to": "ABT.N"
         },
         {
             "from": "APD.N",
@@ -5483,8 +11631,20 @@
             "to": "LUV.N"
         },
         {
+            "from": "APD.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "NBR.N",
+            "to": "BMY.N"
+        },
+        {
             "from": "NBR.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "NBR.N",
+            "to": "AMZN.O"
         },
         {
             "from": "NBR.N",
@@ -5496,11 +11656,43 @@
         },
         {
             "from": "NBR.N",
+            "to": "CAG.N"
+        },
+        {
+            "from": "NBR.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "NBR.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "NBR.N",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "NBR.N",
+            "to": "SYY.N"
+        },
+        {
+            "from": "NBR.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "NBR.N",
             "to": "HST.N"
         },
         {
             "from": "NBR.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "NBR.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "NBR.N",
+            "to": "T.N"
         },
         {
             "from": "NBR.N",
@@ -5513,6 +11705,14 @@
         {
             "from": "NBR.N",
             "to": "WFC.N"
+        },
+        {
+            "from": "NBR.N",
+            "to": "MMC.N"
+        },
+        {
+            "from": "NBR.N",
+            "to": "ROST.O"
         },
         {
             "from": "NBR.N",
@@ -5532,6 +11732,14 @@
         },
         {
             "from": "NBR.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "NBR.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "NBR.N",
             "to": "DGX.N"
         },
         {
@@ -5540,7 +11748,23 @@
         },
         {
             "from": "NBR.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "NBR.N",
             "to": "GE.N"
+        },
+        {
+            "from": "NBR.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "NBR.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "NBR.N",
+            "to": "EL.N"
         },
         {
             "from": "NBR.N",
@@ -5568,6 +11792,14 @@
         },
         {
             "from": "NBR.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "NBR.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "NBR.N",
             "to": "DRI.N"
         },
         {
@@ -5576,7 +11808,27 @@
         },
         {
             "from": "NBR.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "NBR.N",
             "to": "EXPD.O"
+        },
+        {
+            "from": "NBR.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "NBR.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "NBR.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "NBR.N",
+            "to": "VLO.N"
         },
         {
             "from": "NBR.N",
@@ -5584,15 +11836,87 @@
         },
         {
             "from": "NBR.N",
+            "to": "LEG.N"
+        },
+        {
+            "from": "NBR.N",
             "to": "APD.N"
+        },
+        {
+            "from": "NBR.N",
+            "to": "CCL.N"
         },
         {
             "from": "NBR.N",
             "to": "LUV.N"
         },
         {
+            "from": "NBR.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "PPL.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "PPL.N",
+            "to": "ADM.N"
+        },
+        {
             "from": "PPL.N",
             "to": "MO.N"
+        },
+        {
+            "from": "PPL.N",
+            "to": "PGR.N"
+        },
+        {
+            "from": "PPL.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "PPL.N",
+            "to": "CMS.N"
+        },
+        {
+            "from": "PPL.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "PPL.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "PPL.N",
+            "to": "AFL.N"
+        },
+        {
+            "from": "PPL.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "PPL.N",
+            "to": "EIX.N"
+        },
+        {
+            "from": "PPL.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "PPL.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "PPL.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "PPL.N",
+            "to": "COP.N"
+        },
+        {
+            "from": "PPL.N",
+            "to": "EXC.N"
         },
         {
             "from": "CCL.N",
@@ -5604,7 +11928,15 @@
         },
         {
             "from": "CCL.N",
+            "to": "AMZN.O"
+        },
+        {
+            "from": "CCL.N",
             "to": "KEY.N"
+        },
+        {
+            "from": "CCL.N",
+            "to": "MUR.N"
         },
         {
             "from": "CCL.N",
@@ -5632,11 +11964,27 @@
         },
         {
             "from": "CCL.N",
+            "to": "ADM.N"
+        },
+        {
+            "from": "CCL.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "CCL.N",
             "to": "LNC.N"
         },
         {
             "from": "CCL.N",
+            "to": "T.N"
+        },
+        {
+            "from": "CCL.N",
             "to": "STI.N"
+        },
+        {
+            "from": "CCL.N",
+            "to": "PGR.N"
         },
         {
             "from": "CCL.N",
@@ -5645,6 +11993,10 @@
         {
             "from": "CCL.N",
             "to": "MMC.N"
+        },
+        {
+            "from": "CCL.N",
+            "to": "ROST.O"
         },
         {
             "from": "CCL.N",
@@ -5668,11 +12020,27 @@
         },
         {
             "from": "CCL.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "CCL.N",
             "to": "DGX.N"
         },
         {
             "from": "CCL.N",
+            "to": "MRO.N"
+        },
+        {
+            "from": "CCL.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "CCL.N",
             "to": "GE.N"
+        },
+        {
+            "from": "CCL.N",
+            "to": "FLR.N"
         },
         {
             "from": "CCL.N",
@@ -5688,11 +12056,31 @@
         },
         {
             "from": "CCL.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "CCL.N",
             "to": "MGM.N"
         },
         {
             "from": "CCL.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "CCL.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "CCL.N",
             "to": "NVDA.O"
+        },
+        {
+            "from": "CCL.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "CCL.N",
+            "to": "FE.N"
         },
         {
             "from": "CCL.N",
@@ -5712,6 +12100,18 @@
         },
         {
             "from": "CCL.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "CCL.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "CCL.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "CCL.N",
             "to": "VLO.N"
         },
         {
@@ -5728,7 +12128,15 @@
         },
         {
             "from": "CCL.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "CCL.N",
             "to": "LUV.N"
+        },
+        {
+            "from": "CCL.N",
+            "to": "EXC.N"
         },
         {
             "from": "LUV.N",
@@ -5737,6 +12145,10 @@
         {
             "from": "LUV.N",
             "to": "RHI.N"
+        },
+        {
+            "from": "LUV.N",
+            "to": "AMZN.O"
         },
         {
             "from": "LUV.N",
@@ -5752,7 +12164,15 @@
         },
         {
             "from": "LUV.N",
+            "to": "KLAC.O"
+        },
+        {
+            "from": "LUV.N",
             "to": "BA.N"
+        },
+        {
+            "from": "LUV.N",
+            "to": "NDAQ.O"
         },
         {
             "from": "LUV.N",
@@ -5768,7 +12188,15 @@
         },
         {
             "from": "LUV.N",
+            "to": "MO.N"
+        },
+        {
+            "from": "LUV.N",
             "to": "LNC.N"
+        },
+        {
+            "from": "LUV.N",
+            "to": "T.N"
         },
         {
             "from": "LUV.N",
@@ -5808,6 +12236,14 @@
         },
         {
             "from": "LUV.N",
+            "to": "CELG.O"
+        },
+        {
+            "from": "LUV.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "LUV.N",
             "to": "DGX.N"
         },
         {
@@ -5816,7 +12252,15 @@
         },
         {
             "from": "LUV.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "LUV.N",
             "to": "GE.N"
+        },
+        {
+            "from": "LUV.N",
+            "to": "FLR.N"
         },
         {
             "from": "LUV.N",
@@ -5852,6 +12296,14 @@
         },
         {
             "from": "LUV.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "LUV.N",
+            "to": "FE.N"
+        },
+        {
+            "from": "LUV.N",
             "to": "DRI.N"
         },
         {
@@ -5860,7 +12312,27 @@
         },
         {
             "from": "LUV.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "LUV.N",
             "to": "EXPD.O"
+        },
+        {
+            "from": "LUV.N",
+            "to": "FFIV.O"
+        },
+        {
+            "from": "LUV.N",
+            "to": "AMT.N"
+        },
+        {
+            "from": "LUV.N",
+            "to": "KMB.N"
+        },
+        {
+            "from": "LUV.N",
+            "to": "ABT.N"
         },
         {
             "from": "LUV.N",
@@ -5887,8 +12359,208 @@
             "to": "CCL.N"
         },
         {
+            "from": "LUV.N",
+            "to": "EXC.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "BMY.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "RHI.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "KEY.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "MUR.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "BA.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "NDAQ.O"
+        },
+        {
+            "from": "EXC.N",
+            "to": "SYY.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "OMC.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "HST.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "ADM.N"
+        },
+        {
             "from": "EXC.N",
             "to": "MO.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "LNC.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "T.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "STI.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "PGR.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "WFC.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "ROST.O"
+        },
+        {
+            "from": "EXC.N",
+            "to": "FISV.O"
+        },
+        {
+            "from": "EXC.N",
+            "to": "FAST.O"
+        },
+        {
+            "from": "EXC.N",
+            "to": "RF.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "CMA.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "HOLX.O"
+        },
+        {
+            "from": "EXC.N",
+            "to": "DGX.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "MRO.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "CRM.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "GE.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "FLR.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "HON.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "MCD.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "BAX.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "MGM.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "COST.O"
+        },
+        {
+            "from": "EXC.N",
+            "to": "CMS.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "HAL.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "NVDA.O"
+        },
+        {
+            "from": "EXC.N",
+            "to": "MSFT.O"
+        },
+        {
+            "from": "EXC.N",
+            "to": "DRI.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "JBL.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "AFL.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "EXPD.O"
+        },
+        {
+            "from": "EXC.N",
+            "to": "EIX.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "ABT.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "VLO.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "COP.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "LEG.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "APD.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "NBR.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "PPL.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "CCL.N"
+        },
+        {
+            "from": "EXC.N",
+            "to": "LUV.N"
         }
     ]
 }
