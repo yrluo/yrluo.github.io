@@ -7,7 +7,7 @@ date: Sept, 2020
 ---
 
 ### Introduction
-This project aims at developing a Geometric Deep Learning (link) based algorithm to gain an understanding of: 
+This project aims at developing a [Geometric Deep Learning](http://geometricdeeplearning.com/) based algorithm to gain an understanding of: 
 
 1.	how financial news sentiment propagates through the company network,
 1.	and its consequential impacts on the investor and stock movements.
@@ -15,7 +15,7 @@ This project aims at developing a Geometric Deep Learning (link) based algorithm
 The propagation is iterated over the news-affected companies (the minority class) to the remaining companies (the majority class). This approach is broadly applicable to instances where one has available a sparse signal (e.g., news sentiment for a subset of nodes or accounting information of listed companies) and would like to understand how the available signal measurements propagate through the network to the remaining nodes.
 
 ### Technical Description
-This approach can be seen as an instance of message passing problem [1] over the company network with anchors (news embeddings), where one would like to estimate the remaining unknown group elements (company without news embeddings) from noisy pairwise ratios of their mutual relations. 
+This approach can be seen as an instance of message passing problem \[1\] over the company network with anchors (news embeddings), where one would like to estimate the remaining unknown group elements (company without news embeddings) from noisy pairwise ratios of their mutual relations. 
 
 The sliding windows correlation (or various denoised version) serves as the matrix of weighted pairwise group ratios, and those relationship signals generated from the empirical stock movements are treated as attentions that nodes should pay when anchors from their neighbours. 
 
