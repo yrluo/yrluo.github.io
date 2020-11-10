@@ -200,7 +200,7 @@ defaults:
       type: projects
     values:
       layout: single
-      author_profile: true
+      # author_profile: true
       # share: true
   # _posts
   - scope:
