@@ -14,6 +14,8 @@ This project aims at developing a [Geometric Deep Learning](http://geometricdeep
 
 The propagation is iterated over the news-affected companies (the minority class) to the remaining companies (the majority class). This approach is broadly applicable to instances where one has available a sparse signal (e.g., news sentiment for a subset of nodes or accounting information of listed companies) and would like to understand how the available signal measurements propagate through the network to the remaining nodes.
 
+{% include image.html url="/images/company-network.png" description="The news sentiment propagation on the company network with anchor information" %}
+
 ### Technical Description
 This approach can be seen as an instance of message passing problem \[1\] over the company network with anchors (news embeddings), where one would like to estimate the remaining unknown group elements (company without news embeddings) from noisy pairwise ratios of their mutual relations. 
 
