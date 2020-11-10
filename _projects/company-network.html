@@ -1,16 +1,24 @@
 <html>
   <head>
-    <script src="https://cdn.anychart.com/releases/8.8.0/js/anychart-core.min.js"></script>
-    <script src="https://cdn.anychart.com/releases/8.8.0/js/anychart-graph.min.js"></script>
-    <script src="https://cdn.anychart.com/releases/8.8.0/js/anychart-data-adapter.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-graph.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-data-adapter.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-ui.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-exports.min.js"></script>
+    <link href="https://cdn.anychart.com/releases/v8/css/anychart-ui.min.css" type="text/css" rel="stylesheet">
+    <link href="https://cdn.anychart.com/releases/v8/fonts/css/anychart-font.min.css" type="text/css" rel="stylesheet">
+    
     <style type="text/css">
-      html, body, #container {
+      html,
+      body,
+      #container {
         width: 100%;
         height: 100%;
         margin: 0;
         padding: 0;
       }
     </style>
+    
   </head>
   <body>
     <div id="container"></div>
@@ -23,13 +31,16 @@
           // access nodes
           var chart = anychart.graph(data);
           var nodes = chart.nodes();
-
+          
+          // set chart layout settings
+          chart.layout({ iterationCount: 0 });
+          
           // set the title
           chart.title("Snapshot of a Subset of The Company Network on Dec-31-2016");
           
           // set the fill of nodes
           // configure nodes
-          chart.nodes().labels().enabled(true);
+          chart.nodes().labels().enabled(true).anchor('auto').autoRotate(true);
           // chart.nodes().labels().fontSize(12);
 
           chart.nodes().normal().fill("white");
@@ -39,8 +50,13 @@
           chart.nodes().hovered().fill("white");
           chart.nodes().hovered().stroke("2 black");
           chart.nodes().hovered().shape('circle');
-
-          chart.layout().type('force');
+          
+          // set default zoom
+          chart.zoom(
+            0.68,
+            chart.getPixelBounds().width / 2,
+            chart.getPixelBounds().height / 2
+          );
           
           // draw the chart
           chart.container("container").draw();
