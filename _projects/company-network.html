@@ -20,10 +20,17 @@
         anychart.data.loadJsonFile("company_network.json", function (data) {
 
           // create a chart from the loaded data
+          // access nodes
           var chart = anychart.graph(data);
+          var nodes = chart.nodes();
 
           // set the title
           chart.title("Snapshot of The Company Network on Dec-31-2016");
+          
+          // set the fill of nodes
+          nodes.normal().fill("#ffa000");
+          nodes.hovered().fill("white");
+          nodes.selected().fill("#ffa000");
 
           // draw the chart
           chart.container("container").draw();
