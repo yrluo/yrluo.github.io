@@ -1,5 +1,5 @@
 ---
-title: "A Graph Rrepresentation Scheme for Financial News Sentiment"
+title: "A Network based Scheme for Financial News Representation and Sentiment Propagation"
 collection: projects
 type: "Group Work"
 permalink: /projects/Financial-News-Sentiment-Representation
